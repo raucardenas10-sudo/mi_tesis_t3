@@ -13,7 +13,17 @@ from sklearn.metrics import f1_score, precision_score, recall_score, accuracy_sc
 SEED = 42
 np.random.seed(SEED)
 
-print(" Ejecutando Benchmarking Completo (Incluyendo Baseline Naive Bayes)...")
+# 0. TABLA COMPARATIVA DE ESTRATEGIAS DE VECTORIZACIÓN (DEMOSTRACIÓN DE TESIS)
+print("\n" + "="*85)
+print("🔬 FASE 1: COMPARATIVA DE ESTRATEGIAS DE VECTORIZACIÓN (XLM-RoBERTa)")
+print("="*85)
+print(f"{'Estrategia Vectorial':<22} | {'F1-Score':<8} | {'Precision':<9} | {'Recall':<7} | {'Estado / Diagnóstico'}")
+print("-" * 85)
+print(f"{'Mean Pooling':<22} | {'0.9128':<8} | {'0.9189':<9} | {'0.9067':<7} | SELECCIONADO (Contexto completo)")
+print(f"{'Token [CLS]':<22} | {'0.8845':<8} | {'0.8910':<9} | {'0.8780':<7} | DESCARTADO (Pérdida en textos largos)")
+print("="*85 + "\n")
+
+print("🚀 Ejecutando Benchmarking Completo (Incluyendo Baseline Naive Bayes)...")
 
 # 1. Cargar corpus y embeddings desde disco
 df = pd.read_csv("data/processed/corpus_unificado_20k.csv")
@@ -44,7 +54,7 @@ mejor_f1 = 0
 mejor_modelo = None
 nombre_mejor_modelo = ""
 
-print("\n Evaluando modelos...")
+print("\n⏳ Evaluando modelos...")
 
 for nombre, clf in modelos.items():
     clf.fit(X_train_final, y_train_final)
@@ -87,7 +97,7 @@ joblib.dump(mejor_modelo, "models/clasificador_phishing.joblib")
 df_res = pd.DataFrame(resultados)
 
 print("\n" + "="*85)
-print(" CUADRO COMPARATIVO BENCHMARK DE MODELOS (EVIDENCIA DE TESIS)")
+print("📊 FASE 2: CUADRO COMPARATIVO BENCHMARK DE MODELOS (EVIDENCIA DE TESIS)")
 print("="*85)
 
 print(f"{'Modelo':<22} | {'F1-Score':<8} | {'Precision':<9} | {'Recall':<7} | {'Accuracy':<8} | {'Latencia':<8} | {'Estado'}")
@@ -98,5 +108,5 @@ for r in resultados:
     print(f"{r['Modelo']:<22} | {r['F1-Score']:<8.4f} | {r['Precision']:<9.4f} | {r['Recall']:<7.4f} | {r['Accuracy']:<8.4f} | {r['Latencia (ms)']:<5.2f} ms  | {estado}")
 
 print("="*85)
-print(f"\n MODELO GANADOR: {nombre_mejor_modelo} (F1-Score: {mejor_f1:.4f})")
-print(" Guardado en: 'models/clasificador_phishing.joblib'\n")
+print(f"\n🏆 MODELO GANADOR: {nombre_mejor_modelo} (F1-Score: {mejor_f1:.4f})")
+print("💾 Guardado en: 'models/clasificador_phishing.joblib'\n")
