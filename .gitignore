@@ -1,0 +1,9 @@
+# Archivos de entorno virtual de Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Archivos de caché e historial
+.vscode/
+.pytest_cache/
