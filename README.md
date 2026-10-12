@@ -32,3 +32,11 @@ Este repositorio contiene la implementación y pipeline experimental del prototi
 1. Instalar dependencias:
    ```bash
    pip install -r requirements.txt
+
+---
+
+## 📹 Video Demostrativo
+
+Puedes visualizar la demostración en vivo del prototipo funcional (duración 2:48 min), incluyendo la explicación técnica y la evaluación interactiva en tiempo real, en el siguiente enlace:
+
+🎥 **[Ver Video de Demostración del Prototipo en Google Drive](https://drive.google.com/file/d/1eKhYWYmdec4A5qzcgEIGPHwU9BPPSIeY/view?usp=sharing)**   
