@@ -3,6 +3,7 @@ import time
 import joblib
 import numpy as np
 import pandas as pd
+import matplotlib.pyplot as plt
 
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LogisticRegression
@@ -10,7 +11,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
 from sklearn.naive_bayes import GaussianNB
 from sklearn.preprocessing import StandardScaler
-from sklearn.metrics import f1_score, precision_score, recall_score, accuracy_score, roc_auc_score
+from sklearn.metrics import f1_score, precision_score, recall_score, accuracy_score, roc_auc_score, roc_curve
 
 SEED = 42
 np.random.seed(SEED)
@@ -32,13 +33,11 @@ y_train_cross = np.concatenate([df.loc[indices_en, 'etiqueta'].values, df.loc[id
 y_test_es = df.loc[idx_es_test, 'etiqueta'].values
 
 # ==============================================================================
-# FASE 1: COMPARATIVA DINÁMICA DE VECTORIZACIÓN (PUNTO 1)
+# FASE 1: COMPARATIVA DINÁMICA DE VECTORIZACIÓN
 # ==============================================================================
 print("\n" + "="*85)
 print("🔬 FASE 1: COMPARATIVA DINÁMICA DE ESTRATEGIAS DE VECTORIZACIÓN")
 print("="*85)
-print(f"{'Estrategia Vectorial':<22} | {'F1-Score':<8} | {'Precision':<9} | {'Recall':<7} | {'Estado / Diagnóstico'}")
-print("-" * 85)
 
 eval_fase1 = {}
 for nombre_est, X_all in [("Mean Pooling", X_mean_all), ("Token [CLS]", X_cls_all)]:
@@ -67,7 +66,7 @@ for nombre_est in ["Mean Pooling", "Token [CLS]"]:
 print("="*85 + "\n")
 
 # ==============================================================================
-# FASE 2: BENCHMARK Y CUMPIMIENTO DE REQUISITOS (PUNTOS 4, 5 Y 6)
+# FASE 2: BENCHMARK Y GRAFICACIÓN ROC-AUC
 # ==============================================================================
 X_train_cross = np.vstack([X_mean_all[indices_en], X_mean_all[idx_es_train]])
 X_test_es = X_mean_all[idx_es_test]
@@ -84,11 +83,14 @@ modelos = {
 }
 
 resultados = []
+probs_modelos = {}
 mejor_f1_score = 0
 mejor_modelo_obj = None
 nombre_ganador = ""
 
 print("⏳ Evaluando Benchmark de Clasificadores...")
+
+plt.figure(figsize=(8, 6))
 
 for nombre, clf in modelos.items():
     clf.fit(X_train_cross_sc, y_train_cross)
@@ -102,13 +104,14 @@ for nombre, clf in modelos.items():
     if hasattr(clf, "predict_proba"):
         y_prob = clf.predict_proba(X_test_es_sc)[:, 1]
         auc = roc_auc_score(y_test_es, y_prob)
+        fpr, tpr, _ = roc_curve(y_test_es, y_prob)
+        plt.plot(fpr, tpr, label=f"{nombre} (AUC = {auc:.4f})")
     else:
         auc = 0.0
         
     f1 = f1_score(y_test_es, y_pred)
     prec = precision_score(y_test_es, y_pred)
     rec = recall_score(y_test_es, y_pred)
-    acc = accuracy_score(y_test_es, y_pred)
     
     cumple_f1 = f1 >= 0.90
     cumple_lat = latencia_ms <= 50.0
@@ -128,6 +131,19 @@ for nombre, clf in modelos.items():
         mejor_modelo_obj = clf
         nombre_ganador = nombre
 
+# Configuración y guardado de la Curva ROC
+plt.plot([0, 1], [0, 1], 'k--', label='Clasificador Aleatorio (AUC = 0.50)')
+plt.xlabel('Tasa de Falsos Positivos (FPR)')
+plt.ylabel('Tasa de Verdaderos Positivos (TPR)')
+plt.title('Curvas ROC - Benchmark de Modelos Evaluados')
+plt.legend(loc='lower right')
+plt.grid(True, linestyle='--', alpha=0.6)
+
+os.makedirs("reports", exist_ok=True)
+plt.savefig("reports/curva_roc_auc.png", dpi=300, bbox_inches='tight')
+plt.close()
+
+# Exportar Artefactos
 os.makedirs("models", exist_ok=True)
 joblib.dump(mejor_modelo_obj, "models/clasificador_phishing.joblib")
 joblib.dump(scaler_cross, "models/scaler.joblib")
@@ -135,14 +151,10 @@ joblib.dump(scaler_cross, "models/scaler.joblib")
 print("\n" + "="*85)
 print("📊 FASE 2: CUADRO COMPARATIVO BENCHMARK DE MODELOS")
 print("="*85)
-print(f"{'Modelo':<22} | {'F1-Score':<8} | {'Precision':<9} | {'Recall':<7} | {'ROC-AUC':<8} | {'Lat (ms)':<8} | {'Estado'}")
-print("-" * 85)
-
 for r in resultados:
     estado = " SELECCIONADO" if r["Modelo"] == nombre_ganador else (" CUMPLE" if r["Cumple RNF"] == "SÍ" else " DESCARTADO")
     print(f"{r['Modelo']:<22} | {r['F1-Score']:<8.4f} | {r['Precision']:<9.4f} | {r['Recall']:<7.4f} | {r['ROC-AUC']:<8.4f} | {r['Latencia (ms)']:<8.2f} | {estado}")
 
 print("="*85)
 print(f"\n🏆 MODELO GANADOR SELECCIONADO: {nombre_ganador}")
-print(f"   - F1-Score: {mejor_f1_score:.4f} (Requisito: >= 0.90) -> CUMPLE")
-print(f"   - Artefactos exportados: 'models/clasificador_phishing.joblib' y 'models/scaler.joblib'\n")
+print(f"🖼️ Imagen de la Curva ROC guardada en: 'reports/curva_roc_auc.png'\n")
