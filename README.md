@@ -35,17 +35,20 @@ El sistema resuelve la brecha de transferencia *cross-lingual* al adaptar conoci
 ---
 
 ## 🏗️ Arquitectura del Pipeline Extremo a Extremo
+
+```text
 +-------------------+      +---------------------------------+      +------------------------+
 | Correo Entrante   | ---> | Tokenización XLM-RoBERTa (INT8) | ---> | Extracción Embedding   |
 | (Asunto + Cuerpo) |      | (max_length = 128)              |      | Token [CLS] (768 dim)  |
 +-------------------+      +---------------------------------+      +------------------------+
-|
-v
+                                                                                |
+                                                                                v
 +-------------------+      +---------------------------------+      +------------------------+
 | Diagnóstico Final | <--- | Clasificación Supervisada       | <--- | Estandarización        |
 | (Phishing / HAM)  |      | SVM (Kernel RBF, C=1.0)         |      | StandardScaler         |
 +-------------------+      +---------------------------------+      +------------------------+
----
+
+```
 
 ## 📊 Cuadros Comparativos de Evidencia Empírica
 
@@ -86,41 +89,48 @@ Medición sobre $100$ ejecuciones individuales (sin *minibatches*) en procesador
 
 ---
 
+### 2. Estructura del Repositorio
+
+Reemplaza todo el bloque de la estructura por esta versión limpia alineada a 4 espacios por nivel para que GitHub lo dibuje perfecto sin importar la traducción del navegador:
+
+```markdown
 ## 📁 Estructura del Repositorio
+
+```text
 mi_tesis_t3/
 ├── data/
-│   ├── processed/              # Corpus unificado deduplicado (20,000 registros)
-│   │   └── corpus_unificado_20k.csv
-│   └── raw/                    # Fuentes primarias (Nazario, Enron, SpearPhishMX, FISI)
-│       ├── dataset_espanol_mendeley.csv
-│       ├── dataset_ingles_28k.csv
-│       └── fisi_synthetic_200.csv
-├── models/                     # Artefactos entrenados serializados
-│   ├── clasificador_phishing.joblib (SVM Kernel RBF)
-│   └── scaler.joblib           (StandardScaler estandarizado)
-├── reports/                    # Gráficas y reportes cuantitativos exportados
-│   ├── curva_k_samples.png
-│   ├── curva_roc_auc.png
-│   └── resultados_curva_k.csv
-├── scripts/                    # Tubería de código ejecutable y auditorías
-│   ├── unificar_datasets.py   (Deduplicación MD5 y saneamiento)
-│   ├── generar_fisi_sintetico.py (Generación sintética única)
-│   ├── extraer_embeddings.py  (Vectorización Token [CLS] XLM-RoBERTa)
-│   ├── entrenar_pipeline.py   (Entrenamiento y evaluación del pipeline)
-│   ├── auditoria_curva_k.py   (Benchmark multisemilla 5 seeds)
-│   ├── auditoria_crosslingual.py (Comparativa vs Líneas Base)
-│   ├── auditoria_latencia_optimizada.py (Benchmarking RNF-01)
-│   ├── auditoria_duplicados.py (Auditoría de unicidad)
-│   └── auditoria_few_vs_zero.py (Demostración de brecha Zero-Shot)
-├── app.py                      # Prototipo visual interactivo (Streamlit GUI)
-├── requirements.txt            # Dependencias del proyecto
-├── .gitignore                  # Reglas de exclusión de Git
-└── README.md                   # Documentación principal
+│   ├── processed/
+│   │   └── corpus_unificado_20k.csv     # Corpus unificado deduplicado (20,000 registros)
+│   └── raw/
+│       ├── dataset_espanol_mendeley.csv # Dataset primario en español
+│       ├── dataset_ingles_28k.csv       # Dataset primario en inglés
+│       └── fisi_synthetic_200.csv       # Dataset sintético FISI (200 muestras)
+├── models/
+│   ├── clasificador_phishing.joblib     # Clasificador SVM (Kernel RBF)
+│   └── scaler.joblib                    # Normalizador StandardScaler
+├── reports/
+│   ├── curva_k_samples.png              # Gráfica de la curva de aprendizaje cross-lingual
+│   ├── curva_roc_auc.png                # Curva ROC-AUC comparativa
+│   └── resultados_curva_k.csv           # Resultados cuantitativos multisemilla
+├── scripts/
+│   ├── unificar_datasets.py             # ETL y deduplicación con Hashes MD5
+│   ├── generar_fisi_sintetico.py       # Generación de muestras sintéticas institucionales
+│   ├── extraer_embeddings.py            # Extracción de tensores [CLS] con XLM-RoBERTa
+│   ├── entrenar_pipeline.py             # Entrenamiento y evaluación del pipeline
+│   ├── auditoria_curva_k.py             # Benchmark multisemilla (5 seeds)
+│   ├── auditoria_crosslingual.py        # Comparativa contra Líneas Base Monolingües
+│   ├── auditoria_latencia_optimizada.py # Benchmarking de latencia en CPU (RNF-01)
+│   ├── auditoria_duplicados.py          # Verificación de unicidad del corpus
+│   └── auditoria_few_vs_zero.py         # Evaluación de brecha Zero-Shot
+├── app.py                               # Prototipo visual interactivo (Streamlit)
+├── requirements.txt                     # Dependencias exactas del proyecto
+├── .gitignore                           # Reglas de exclusión de Git
+└── README.md                            # Documentación principal
 
----
-
+```
 ## 🚀 Instrucciones para Reproducir el Proyecto
-
+```bash
+```
 ### 1. Clonar el repositorio e instalar dependencias
 ```bash
 git clone [https://github.com/TU_USUARIO/mi_tesis_t3.git](https://github.com/TU_USUARIO/mi_tesis_t3.git)
