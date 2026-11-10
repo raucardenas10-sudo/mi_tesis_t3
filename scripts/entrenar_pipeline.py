@@ -11,12 +11,16 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.svm import SVC
 from sklearn.naive_bayes import GaussianNB
 from sklearn.preprocessing import StandardScaler
-from sklearn.metrics import f1_score, precision_score, recall_score, accuracy_score, roc_auc_score, roc_curve
+from sklearn.metrics import f1_score, precision_score, recall_score, roc_auc_score, roc_curve
 
 SEED = 42
 np.random.seed(SEED)
 
-print("🚀 Cargando datos deduplicados y matrices de embeddings de 20k...")
+print("=" * 105)
+print("🚀 ENTRENAMIENTO DEL PIPELINE Y BENCHMARK DE MODELOS DE CLASIFICACIÓN (DEDUPLICADO)")
+print("=" * 105)
+
+print("📦 Cargando datos deduplicados y matrices de embeddings de 20k...")
 df = pd.read_csv("data/processed/corpus_unificado_20k.csv")
 X_mean_all = np.load("data/processed/X_mean_20k.npy")
 X_cls_all = np.load("data/processed/X_cls_20k.npy")
@@ -33,11 +37,12 @@ y_train_cross = np.concatenate([df.loc[indices_en, 'etiqueta'].values, df.loc[id
 y_test_es = df.loc[idx_es_test, 'etiqueta'].values
 
 # ==============================================================================
-# FASE 1: COMPARATIVA DINÁMICA DE VECTORIZACIÓN
+# FASE 1: COMPARATIVA DINÁMICA DE ESTRATEGIAS DE VECTORIZACIÓN
 # ==============================================================================
-print("\n" + "="*85)
-print("🔬 FASE 1: COMPARATIVA DINÁMICA DE ESTRATEGIAS DE VECTORIZACIÓN")
-print("="*85)
+print("\n🔬 FASE 1: COMPARATIVA DINÁMICA DE ESTRATEGIAS DE VECTORIZACIÓN")
+print("=" * 105)
+print(f"{'Estrategia':<22} | {'F1-Score':<8} | {'Precision':<9} | {'Recall':<7} | {'Estado'}")
+print("-" * 105)
 
 eval_fase1 = {}
 for nombre_est, X_all in [("Mean Pooling", X_mean_all), ("Token [CLS]", X_cls_all)]:
@@ -63,7 +68,7 @@ for nombre_est in ["Mean Pooling", "Token [CLS]"]:
     f1_t, p_t, r_t = eval_fase1[nombre_est]
     estado_f1 = "SELECCIONADO" if f1_t == mej_f1 else "DESCARTADO"
     print(f"{nombre_est:<22} | {f1_t:<8.4f} | {p_t:<9.4f} | {r_t:<7.4f} | {estado_f1}")
-print("="*85 + "\n")
+print("=" * 105 + "\n")
 
 # ==============================================================================
 # FASE 2: BENCHMARK Y GRAFICACIÓN ROC-AUC
@@ -83,12 +88,11 @@ modelos = {
 }
 
 resultados = []
-probs_modelos = {}
 mejor_f1_score = 0
 mejor_modelo_obj = None
 nombre_ganador = ""
 
-print("⏳ Evaluando Benchmark de Clasificadores...")
+print("⏳ Evaluando Benchmark de Clasificadores y generando ROC Curve...")
 
 plt.figure(figsize=(8, 6))
 
@@ -148,13 +152,15 @@ os.makedirs("models", exist_ok=True)
 joblib.dump(mejor_modelo_obj, "models/clasificador_phishing.joblib")
 joblib.dump(scaler_cross, "models/scaler.joblib")
 
-print("\n" + "="*85)
-print("📊 FASE 2: CUADRO COMPARATIVO BENCHMARK DE MODELOS")
-print("="*85)
-for r in resultados:
-    estado = " SELECCIONADO" if r["Modelo"] == nombre_ganador else (" CUMPLE" if r["Cumple RNF"] == "SÍ" else " DESCARTADO")
-    print(f"{r['Modelo']:<22} | {r['F1-Score']:<8.4f} | {r['Precision']:<9.4f} | {r['Recall']:<7.4f} | {r['ROC-AUC']:<8.4f} | {r['Latencia (ms)']:<8.2f} | {estado}")
+print("\n📊 FASE 2: CUADRO COMPARATIVO BENCHMARK DE MODELOS")
+print("=" * 105)
+print(f"{'Modelo':<22} | {'F1-Score':<8} | {'Precision':<9} | {'Recall':<7} | {'ROC-AUC':<8} | {'Latencia (ms)':<13} | {'Estado'}")
+print("-" * 105)
 
-print("="*85)
+for r in resultados:
+    estado = "SELECCIONADO" if r["Modelo"] == nombre_ganador else ("CUMPLE" if r["Cumple RNF"] == "SÍ" else "DESCARTADO")
+    print(f"{r['Modelo']:<22} | {r['F1-Score']:<8.4f} | {r['Precision']:<9.4f} | {r['Recall']:<7.4f} | {r['ROC-AUC']:<8.4f} | {r['Latencia (ms)']:<13.2f} | {estado}")
+
+print("=" * 105)
 print(f"\n🏆 MODELO GANADOR SELECCIONADO: {nombre_ganador}")
 print(f"🖼️ Imagen de la Curva ROC guardada en: 'reports/curva_roc_auc.png'\n")

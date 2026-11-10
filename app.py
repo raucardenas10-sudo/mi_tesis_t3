@@ -12,7 +12,7 @@ st.set_page_config(
     layout="centered"
 )
 
-# Estilos CSS personalizados (Título centrado, en mayúsculas y azul institucional)
+# Estilos CSS personalizados
 st.markdown("""
     <style>
     .main-title {
@@ -35,47 +35,39 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# Título principal centrado, en mayúsculas y azul
 st.markdown("<div class='main-title'>🛡️ [PROTOTIPO FISI-UNMSM] | DETECTOR HÍBRIDO MULTILINGÜE DE PHISHING</div>", unsafe_allow_html=True)
 
-# Cargar Modelo y Tokenizer (Cache)
+# Cargar Modelo, Tokenizer, Scaler y Clasificador
 @st.cache_resource
 def cargar_componentes():
     MODEL_NAME = "xlm-roberta-base"
     tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
-    model = AutoModel.from_pretrained(MODEL_NAME)
-    model.eval()
+    model_base = AutoModel.from_pretrained(MODEL_NAME)
+    model_base.eval()
     
-    for param in model.parameters():
+    # Optimización mediante Cuantización Dinámica INT8 en CPU
+    model_quantized = torch.quantization.quantize_dynamic(
+        model_base, {torch.nn.Linear}, dtype=torch.qint8
+    )
+    
+    for param in model_quantized.parameters():
         param.requires_grad = False
         
+    scaler = joblib.load("models/scaler.joblib")
     clasificador = joblib.load("models/clasificador_phishing.joblib")
-    return tokenizer, model, clasificador
+    
+    return tokenizer, model_quantized, scaler, clasificador
 
-tokenizer, model, clasificador = cargar_componentes()
+tokenizer, model, scaler, clasificador = cargar_componentes()
 
-# Función para limpiar los campos del formulario
 def limpiar_campos():
     st.session_state["asunto_input"] = ""
     st.session_state["cuerpo_input"] = ""
 
-# Inicializar estados si no existen
 if "asunto_input" not in st.session_state:
     st.session_state["asunto_input"] = ""
 if "cuerpo_input" not in st.session_state:
     st.session_state["cuerpo_input"] = ""
-
-# Extraer embedding mediante Mean Pooling
-def extraer_embedding_correo(texto):
-    inputs = tokenizer([texto], padding=True, truncation=True, max_length=256, return_tensors="pt")
-    with torch.no_grad():
-        outputs = model(**inputs)
-        attention_mask = inputs['attention_mask'].unsqueeze(-1)
-        token_embeddings = outputs.last_hidden_state
-        sum_embeddings = torch.sum(token_embeddings * attention_mask, dim=1)
-        sum_mask = torch.clamp(attention_mask.sum(dim=1), min=1e-9)
-        mean_pooled = (sum_embeddings / sum_mask).numpy()
-    return mean_pooled
 
 # 1. INGRESO DE DATOS
 st.subheader("✉️ INGRESO DE DATOS DEL CORREO DE PRUEBA")
@@ -93,7 +85,6 @@ cuerpo = st.text_area(
     placeholder="Estimado estudiante de la FISI, se requiere que ingrese al siguiente enlace para validar sus credenciales..."
 )
 
-# Botones de Acción (Ejecutar e Iniciar Nueva Evaluación)
 col1, col2 = st.columns([2, 1])
 
 with col1:
@@ -102,32 +93,50 @@ with col1:
 with col2:
     btn_limpiar = st.button("🔄 NUEVA EVALUACIÓN", use_container_width=True, on_click=limpiar_campos)
 
-# Procesar Inferencia si se presiona evaluar
+# Procesar Inferencia Extremo a Extremo
 if btn_evaluar:
     texto_completo = f"{asunto} {cuerpo}".strip()
     
     if not texto_completo:
         st.warning("⚠️ Por favor ingrese al menos el asunto o el cuerpo del correo para evaluar.")
     else:
-        start_time = time.time()
+        # MEDICIÓN COMPLETA EXTREMO A EXTREMO (Tokenización + XLM-R + Scaler + SVM)
+        t_inicio = time.perf_counter()
         
-        vector_embedding = extraer_embedding_correo(texto_completo)
-        prediccion = clasificador.predict(vector_embedding)[0]
+        # 1. Tokenización
+        inputs = tokenizer(
+            [texto_completo], 
+            padding=True, 
+            truncation=True, 
+            max_length=128, 
+            return_tensors="pt"
+        )
         
+        # 2. Extracción de Embedding con Token [CLS]
+        with torch.no_grad():
+            outputs = model(**inputs)
+            cls_embedding = outputs.last_hidden_state[:, 0, :].numpy()
+        
+        # 3. Estandarización con StandardScaler
+        scaled_embedding = scaler.transform(cls_embedding)
+        
+        # 4. Clasificación SVM
+        prediccion = int(clasificador.predict(scaled_embedding)[0])
+        
+        t_fin = time.perf_counter()
+        latencia_extremo_a_extremo = (t_fin - t_inicio) * 1000
+
         if hasattr(clasificador, "predict_proba"):
-            probabilidades = clasificador.predict_proba(vector_embedding)[0]
+            probabilidades = clasificador.predict_proba(scaled_embedding)[0]
             prob_phishing = probabilidades[1] * 100
         else:
             prob_phishing = 95.0 if prediccion == 1 else 5.0
-            
-        end_time = time.time()
-        latencia_ms = (end_time - start_time) * 1000
 
-        # 2. RESULTADOS DIAGNÓSTICOS
+        # RESULTADOS DIAGNÓSTICOS
         st.markdown("---")
         st.subheader("📊 RESULTADOS DIAGNÓSTICOS DE LA PRUEBA")
 
-        if prediccion == 1 or prob_phishing >= 50.0:
+        if prediccion == 1:
             st.error("🚨 **DIAGNÓSTICO: PHISHING DETECTADO** (Nivel de Riesgo: ALTO)")
         else:
             st.success("✅ **DIAGNÓSTICO: CORREO LEGÍTIMO (HAM)** (Nivel de Riesgo: BAJO)")
@@ -136,9 +145,11 @@ if btn_evaluar:
         <div class='sub-card'>
             <ul>
                 <li><b>Probabilidad asignada:</b> {prob_phishing:.1f}%</li>
-                <li><b>Tiempo de inferencia local:</b> {latencia_ms:.2f} ms</li>
-                <li><b>Extractor semántico:</b> XLM-RoBERTa Base (Vector denso d=768 / Mean Pooling)</li>
-                <li><b>Clasificador supervisado:</b> Regresión Logística (joblib)</li>
+                <li><b>Latencia extremo a extremo (Tokenización + XLM-R + Scaler + SVM):</b> {latencia_extremo_a_extremo:.2f} ms</li>
+                <li><b>Extractor semántico:</b> XLM-RoBERTa Base (Embedding Token [CLS] / max_len=128 / INT8 Quantized)</li>
+                <li><b>Preprocesador de vectores:</b> StandardScaler (scaler.joblib)</li>
+                <li><b>Clasificador supervisado:</b> SVM con Kernel RBF (clasificador_phishing.joblib)</li>
             </ul>
         </div>
         """, unsafe_allow_html=True)
+        

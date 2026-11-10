@@ -1,201 +1,1401 @@
-id_correo,asunto,cuerpo,idioma,etiqueta
-ES_FISI_PHISH_096,[URGENTE] Validación obligatoria de credenciales en el SUM - Cierre de matrícula FISI,"Estimado miembro de la comunidad universitaria, el Unidad de Posgrado e Investigación FISI le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_PHISH_016,[Shark Tank FISI] Descarga de certificados y aprobación de proyectos seleccionados,"Estimado miembro de la comunidad universitaria, el Comité de Grados y Títulos FISI le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_PHISH_031,[Shark Tank FISI] Descarga de certificados y aprobación de proyectos seleccionados,"Estimado estudiante de la Vicedecanatura Académica FISI, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_HAM_059,Boletín Informativo Quincenal del Escuela Profesional de Ingeniería de Software,"Llega el I Congreso Shark Tank FISI, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Comisión Organizadora FISI en el Transmisión en vivo por Facebook Live. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_029,Convocatoria de participación: Convocatoria de Proyectos de Innovación Tecnológica 2026-II en el Mesa de Partes Virtual UNMSM,"Llega el Software Innovation Day, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Jefatura del DACC en el Portal del Sistema Unificado de Matrícula (SUM). #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_016,Aviso del DACC: Horarios de atención y laboratorios académicos FISI,El Comité de Grados y Títulos FISI reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_070,Aviso de suspensión de cuenta institucional @unmsm.edu.pe por inactividad,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_HAM_071,Boletín Informativo Quincenal del Escuela Profesional de Ingeniería de Software,"Llega el I Congreso Shark Tank FISI, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Dra. Marlene Reyes en el Laboratorio de Redes y Software FISI. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_075,Invitación al evento: Feria de Proyectos de Ingeniería de Software y UX - FISI UNMSM,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Feria de Proyectos de Ingeniería de Software y UX, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Aula-Tech (Gestión Escolar LMS). El evento contará con la presencia de la Coordinación de Prácticas Preprofesionales y se llevará a cabo en el Mesa de Partes Virtual UNMSM. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_046,[Software Innovation Day] Confirmación inmediata de registro para presentación de proyectos,"Estimado miembro de la comunidad universitaria, el Escuela Profesional de Ingeniería de Software le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_PHISH_067,Vicedecanatura FISI: Verificación de pagos de tasa de matrícula y acceso al portal,"Estimado participante del evento Software Innovation Day, se requiere la validación del proyecto EmprendeX (Gestión para Emprendedores) para mantener su vacante en el Auditorio Principal de la FISI – Ciudad Universitaria. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_HAM_083,Publicación de proyectos destacados de Ingeniería de Software y UX,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Feria de Proyectos de Ingeniería de Software y UX, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Púntualo (Calificación Docente). El evento contará con la presencia de la Dirección de la Escuela Profesional de Ingeniería de Software y se llevará a cabo en el Transmisión en vivo por Facebook Live. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_066,Publicación de proyectos destacados de Ingeniería de Software y UX,"Llega el Seminario de Inteligencia Artificial y Transformación Digital, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Dirección de la Escuela Profesional de Ingeniería de Software en el Transmisión en vivo por Facebook Live. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_079,Aviso de suspensión de cuenta institucional @unmsm.edu.pe por inactividad,"Estimado estudiante de la Vicedecanatura Académica FISI, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_HAM_087,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,El Escuela Profesional de Ingeniería de Sistemas reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_HAM_078,Aviso del DACC: Horarios de atención y laboratorios académicos FISI,"Llega el Feria de Proyectos de Ingeniería de Software y UX, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Jefatura del DACC en el Laboratorio de Redes y Software FISI. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_057,[Software Innovation Day] Confirmación inmediata de registro para presentación de proyectos,"Estimado participante del evento Software Innovation Day, se requiere la validación del proyecto Aula-Tech (Gestión Escolar LMS) para mantener su vacante en el Laboratorio de Redes y Software FISI. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_HAM_053,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,El Escuela Profesional de Ingeniería de Software reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_083,ALERTA DACC: Regularización de actas de notas y acceso a cuenta @unmsm.edu.pe,"Estimado miembro de la comunidad universitaria, el Comité de Grados y Títulos FISI le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_PHISH_069,Vicedecanatura FISI: Verificación de pagos de tasa de matrícula y acceso al portal,"Estimado miembro de la comunidad universitaria, el Facultad de Ingeniería de Sistemas e Informática (FISI-UNMSM) le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_HAM_025,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,"Estimados estudiantes, el Escuela Profesional de Ingeniería de Software les informa que las actividades académicas y talleres de laboratorio se vienen desarrollando en los horarios establecidos. Se recuerda a los alumnos verificar el rol de exámenes parciales publicado en la página web oficial institucional de la facultad. Agradecemos la gentil atención al presente.",es,0
-ES_FISI_PHISH_017,[Software Innovation Day] Confirmación inmediata de registro para presentación de proyectos,"Estimado participante del evento I Congreso Shark Tank FISI, se requiere la validación del proyecto Aula-Tech (Gestión Escolar LMS) para mantener su vacante en el Mesa de Partes Virtual UNMSM. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_HAM_049,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del I Congreso Shark Tank FISI, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Filmate (Plataforma de Cines). El evento contará con la presencia de la Dra. Marlene Reyes y se llevará a cabo en el Auditorio Principal de la FISI – Ciudad Universitaria. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_094,Vicedecanatura FISI: Verificación de pagos de tasa de matrícula y acceso al portal,"Estimado estudiante de la Comité de Grados y Títulos FISI, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_PHISH_066,[Software Innovation Day] Confirmación inmediata de registro para presentación de proyectos,"Estimado estudiante de la Facultad de Ingeniería de Sistemas e Informática (FISI-UNMSM), la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_PHISH_061,[Software Innovation Day] Confirmación inmediata de registro para presentación de proyectos,"Estimado estudiante de la Vicedecanatura Académica FISI, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_PHISH_085,ALERTA DACC: Regularización de actas de notas y acceso a cuenta @unmsm.edu.pe,"Estimado estudiante de la Escuela Profesional de Ingeniería de Sistemas, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_PHISH_068,Convocatoria de Becas y Laptops Institucionales UNMSM - Registro de datos urgente,"Estimado miembro de la comunidad universitaria, el Departamento Académico de Ciencias de la Computación (DACC) le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_HAM_026,Publicación de proyectos destacados de Ingeniería de Software y UX,El Escuela Profesional de Ingeniería de Sistemas reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_HAM_033,Aviso del DACC: Horarios de atención y laboratorios académicos FISI,"Llega el Feria de Proyectos de Ingeniería de Software y UX, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Dra. Marlene Reyes en el Laboratorio de Redes y Software FISI. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_010,Vicedecanatura FISI: Verificación de pagos de tasa de matrícula y acceso al portal,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_PHISH_019,[Software Innovation Day] Confirmación inmediata de registro para presentación de proyectos,"Estimado estudiante de la Facultad de Ingeniería de Sistemas e Informática (FISI-UNMSM), la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_PHISH_056,Aviso de suspensión de cuenta institucional @unmsm.edu.pe por inactividad,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_PHISH_076,[Shark Tank FISI] Descarga de certificados y aprobación de proyectos seleccionados,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_HAM_051,Publicación de proyectos destacados de Ingeniería de Software y UX,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Seminario de Inteligencia Artificial y Transformación Digital, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Aula-Tech (Gestión Escolar LMS). El evento contará con la presencia de la Dirección de la Escuela Profesional de Ingeniería de Software y se llevará a cabo en el Portal del Sistema Unificado de Matrícula (SUM). Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_005,Publicación de proyectos destacados de Ingeniería de Software y UX,El Comité de Grados y Títulos FISI reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_HAM_036,Aviso del DACC: Horarios de atención y laboratorios académicos FISI,"Llega el Seminario de Inteligencia Artificial y Transformación Digital, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Dra. Marlene Reyes en el Laboratorio de Redes y Software FISI. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_038,Boletín Informativo Quincenal del Escuela Profesional de Ingeniería de Software,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Seminario de Inteligencia Artificial y Transformación Digital, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Púntualo (Calificación Docente). El evento contará con la presencia de la Dirección de la Escuela Profesional de Ingeniería de Software y se llevará a cabo en el Auditorio Principal de la FISI – Ciudad Universitaria. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_065,Aviso del DACC: Horarios de atención y laboratorios académicos FISI,El Vicedecanatura Académica FISI reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_077,Comité de Grados y Títulos FISI: Inconsistencia detectada en expediente de graduación,"Estimado participante del evento Feria de Proyectos de Ingeniería de Software y UX, se requiere la validación del proyecto Aula-Tech (Gestión Escolar LMS) para mantener su vacante en el Laboratorio de Redes y Software FISI. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_PHISH_080,Vicedecanatura FISI: Verificación de pagos de tasa de matrícula y acceso al portal,"Estimado estudiante de la Unidad de Posgrado e Investigación FISI, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_HAM_098,Aviso del DACC: Horarios de atención y laboratorios académicos FISI,El Comité de Grados y Títulos FISI reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_039,Comité de Grados y Títulos FISI: Inconsistencia detectada en expediente de graduación,"Estimado participante del evento Software Innovation Day, se requiere la validación del proyecto Arcast (Streaming Peruano) para mantener su vacante en el Laboratorio de Redes y Software FISI. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_PHISH_025,[Software Innovation Day] Confirmación inmediata de registro para presentación de proyectos,"Estimado participante del evento I Congreso Shark Tank FISI, se requiere la validación del proyecto Aula-Tech (Gestión Escolar LMS) para mantener su vacante en el Mesa de Partes Virtual UNMSM. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_HAM_023,Convocatoria de participación: Software Innovation Day en el Auditorio Principal de la FISI – Ciudad Universitaria,El Vicedecanatura Académica FISI reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_HAM_096,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,"Estimados estudiantes, el Unidad de Posgrado e Investigación FISI les informa que las actividades académicas y talleres de laboratorio se vienen desarrollando en los horarios establecidos. Se recuerda a los alumnos verificar el rol de exámenes parciales publicado en la página web oficial institucional de la facultad. Agradecemos la gentil atención al presente.",es,0
-ES_FISI_PHISH_030,Comité de Grados y Títulos FISI: Inconsistencia detectada en expediente de graduación,"Estimado miembro de la comunidad universitaria, el Vicedecanatura Académica FISI le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_PHISH_020,[Software Innovation Day] Confirmación inmediata de registro para presentación de proyectos,"Estimado estudiante de la Vicedecanatura Académica FISI, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_HAM_044,Aviso del DACC: Horarios de atención y laboratorios académicos FISI,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Seminario de Inteligencia Artificial y Transformación Digital, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como EmprendeX (Gestión para Emprendedores). El evento contará con la presencia de la Comisión Organizadora FISI y se llevará a cabo en el Laboratorio de Redes y Software FISI. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_087,Comité de Grados y Títulos FISI: Inconsistencia detectada en expediente de graduación,"Estimado miembro de la comunidad universitaria, el Departamento Académico de Ciencias de la Computación (DACC) le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_HAM_015,Aviso del DACC: Horarios de atención y laboratorios académicos FISI,"Estimados estudiantes, el Escuela Profesional de Ingeniería de Sistemas les informa que las actividades académicas y talleres de laboratorio se vienen desarrollando en los horarios establecidos. Se recuerda a los alumnos verificar el rol de exámenes parciales publicado en la página web oficial institucional de la facultad. Agradecemos la gentil atención al presente.",es,0
-ES_FISI_HAM_074,Invitación al evento: Seminario de Inteligencia Artificial y Transformación Digital - FISI UNMSM,El Comité de Grados y Títulos FISI reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_006,[Shark Tank FISI] Descarga de certificados y aprobación de proyectos seleccionados,"Estimado participante del evento I Congreso Shark Tank FISI, se requiere la validación del proyecto Filmate (Plataforma de Cines) para mantener su vacante en el Auditorio Principal de la FISI – Ciudad Universitaria. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_HAM_027,Boletín Informativo Quincenal del Comité de Grados y Títulos FISI,El Facultad de Ingeniería de Sistemas e Informática (FISI-UNMSM) reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_HAM_018,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,El Escuela Profesional de Ingeniería de Software reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_074,Vicedecanatura FISI: Verificación de pagos de tasa de matrícula y acceso al portal,"Estimado participante del evento Seminario de Inteligencia Artificial y Transformación Digital, se requiere la validación del proyecto Púntualo (Calificación Docente) para mantener su vacante en el Mesa de Partes Virtual UNMSM. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_HAM_041,Invitación al evento: Feria de Proyectos de Ingeniería de Software y UX - FISI UNMSM,"Llega el Convocatoria de Proyectos de Innovación Tecnológica 2026-II, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Dra. Marlene Reyes en el Transmisión en vivo por Facebook Live. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_099,Convocatoria de Becas y Laptops Institucionales UNMSM - Registro de datos urgente,"Estimado miembro de la comunidad universitaria, el Escuela Profesional de Ingeniería de Software le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_HAM_073,Invitación al evento: Seminario de Inteligencia Artificial y Transformación Digital - FISI UNMSM,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Convocatoria de Proyectos de Innovación Tecnológica 2026-II, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Filmate (Plataforma de Cines). El evento contará con la presencia de la Comisión Organizadora FISI y se llevará a cabo en el Auditorio Principal de la FISI – Ciudad Universitaria. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_097,[URGENTE] Validación obligatoria de credenciales en el SUM - Cierre de matrícula FISI,"Estimado estudiante de la Escuela Profesional de Ingeniería de Sistemas, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_HAM_070,Publicación de proyectos destacados de Ingeniería de Software y UX,"Estimados estudiantes, el Vicedecanatura Académica FISI les informa que las actividades académicas y talleres de laboratorio se vienen desarrollando en los horarios establecidos. Se recuerda a los alumnos verificar el rol de exámenes parciales publicado en la página web oficial institucional de la facultad. Agradecemos la gentil atención al presente.",es,0
-ES_FISI_PHISH_098,Comité de Grados y Títulos FISI: Inconsistencia detectada en expediente de graduación,"Estimado estudiante de la Vicedecanatura Académica FISI, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_PHISH_032,Vicedecanatura FISI: Verificación de pagos de tasa de matrícula y acceso al portal,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_PHISH_013,[Software Innovation Day] Confirmación inmediata de registro para presentación de proyectos,"Estimado miembro de la comunidad universitaria, el Departamento Académico de Ciencias de la Computación (DACC) le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_PHISH_036,[Software Innovation Day] Confirmación inmediata de registro para presentación de proyectos,"Estimado estudiante de la Departamento Académico de Ciencias de la Computación (DACC), la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_HAM_020,Convocatoria de participación: Software Innovation Day en el Mesa de Partes Virtual UNMSM,"Llega el I Congreso Shark Tank FISI, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Dra. Marlene Reyes en el Auditorio Principal de la FISI – Ciudad Universitaria. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_043,Vicedecanatura FISI: Verificación de pagos de tasa de matrícula y acceso al portal,"Estimado miembro de la comunidad universitaria, el Escuela Profesional de Ingeniería de Sistemas le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_HAM_090,Boletín Informativo Quincenal del Unidad de Posgrado e Investigación FISI,"Llega el Software Innovation Day, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Comisión Organizadora FISI en el Portal del Sistema Unificado de Matrícula (SUM). #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_091,Vicedecanatura FISI: Verificación de pagos de tasa de matrícula y acceso al portal,"Estimado participante del evento Convocatoria de Proyectos de Innovación Tecnológica 2026-II, se requiere la validación del proyecto EmprendeX (Gestión para Emprendedores) para mantener su vacante en el Laboratorio de Redes y Software FISI. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_HAM_037,Convocatoria de participación: Convocatoria de Proyectos de Innovación Tecnológica 2026-II en el Transmisión en vivo por Facebook Live,El Comité de Grados y Títulos FISI reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_052,Comité de Grados y Títulos FISI: Inconsistencia detectada en expediente de graduación,"Estimado miembro de la comunidad universitaria, el Comité de Grados y Títulos FISI le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_HAM_028,Aviso del DACC: Horarios de atención y laboratorios académicos FISI,"Estimados estudiantes, el Escuela Profesional de Ingeniería de Software les informa que las actividades académicas y talleres de laboratorio se vienen desarrollando en los horarios establecidos. Se recuerda a los alumnos verificar el rol de exámenes parciales publicado en la página web oficial institucional de la facultad. Agradecemos la gentil atención al presente.",es,0
-ES_FISI_HAM_063,Publicación de proyectos destacados de Ingeniería de Software y UX,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Seminario de Inteligencia Artificial y Transformación Digital, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Filmate (Plataforma de Cines). El evento contará con la presencia de la Comisión Organizadora FISI y se llevará a cabo en el Auditorio Principal de la FISI – Ciudad Universitaria. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_042,ALERTA DACC: Regularización de actas de notas y acceso a cuenta @unmsm.edu.pe,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_HAM_019,Invitación al evento: I Congreso Shark Tank FISI - FISI UNMSM,"Llega el Feria de Proyectos de Ingeniería de Software y UX, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Coordinación de Prácticas Preprofesionales en el Laboratorio de Redes y Software FISI. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_014,Publicación de proyectos destacados de Ingeniería de Software y UX,El Escuela Profesional de Ingeniería de Sistemas reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_027,Aviso de suspensión de cuenta institucional @unmsm.edu.pe por inactividad,"Estimado miembro de la comunidad universitaria, el Facultad de Ingeniería de Sistemas e Informática (FISI-UNMSM) le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_HAM_040,Aviso del DACC: Horarios de atención y laboratorios académicos FISI,"Estimados estudiantes, el Escuela Profesional de Ingeniería de Sistemas les informa que las actividades académicas y talleres de laboratorio se vienen desarrollando en los horarios establecidos. Se recuerda a los alumnos verificar el rol de exámenes parciales publicado en la página web oficial institucional de la facultad. Agradecemos la gentil atención al presente.",es,0
-ES_FISI_HAM_001,Boletín Informativo Quincenal del Vicedecanatura Académica FISI,El Vicedecanatura Académica FISI reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_HAM_012,Boletín Informativo Quincenal del Vicedecanatura Académica FISI,El Escuela Profesional de Ingeniería de Software reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_003,Comité de Grados y Títulos FISI: Inconsistencia detectada en expediente de graduación,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_PHISH_078,Vicedecanatura FISI: Verificación de pagos de tasa de matrícula y acceso al portal,"Estimado estudiante de la Comité de Grados y Títulos FISI, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_PHISH_047,[URGENTE] Validación obligatoria de credenciales en el SUM - Cierre de matrícula FISI,"Estimado participante del evento Software Innovation Day, se requiere la validación del proyecto Aula-Tech (Gestión Escolar LMS) para mantener su vacante en el Portal del Sistema Unificado de Matrícula (SUM). De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_HAM_088,Boletín Informativo Quincenal del Facultad de Ingeniería de Sistemas e Informática (FISI-UNMSM),El Facultad de Ingeniería de Sistemas e Informática (FISI-UNMSM) reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_HAM_092,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,El Facultad de Ingeniería de Sistemas e Informática (FISI-UNMSM) reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_086,Convocatoria de Becas y Laptops Institucionales UNMSM - Registro de datos urgente,"Estimado estudiante de la Departamento Académico de Ciencias de la Computación (DACC), la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_HAM_062,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,"Llega el I Congreso Shark Tank FISI, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Dra. Marlene Reyes en el Mesa de Partes Virtual UNMSM. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_037,ALERTA DACC: Regularización de actas de notas y acceso a cuenta @unmsm.edu.pe,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_HAM_091,Boletín Informativo Quincenal del Escuela Profesional de Ingeniería de Sistemas,"Estimados estudiantes, el Vicedecanatura Académica FISI les informa que las actividades académicas y talleres de laboratorio se vienen desarrollando en los horarios establecidos. Se recuerda a los alumnos verificar el rol de exámenes parciales publicado en la página web oficial institucional de la facultad. Agradecemos la gentil atención al presente.",es,0
-ES_FISI_PHISH_062,ALERTA DACC: Regularización de actas de notas y acceso a cuenta @unmsm.edu.pe,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_PHISH_023,Convocatoria de Becas y Laptops Institucionales UNMSM - Registro de datos urgente,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_HAM_042,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,El Unidad de Posgrado e Investigación FISI reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_HAM_002,Boletín Informativo Quincenal del Departamento Académico de Ciencias de la Computación (DACC),"Llega el Feria de Proyectos de Ingeniería de Software y UX, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Comisión Organizadora FISI en el Transmisión en vivo por Facebook Live. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_034,ALERTA DACC: Regularización de actas de notas y acceso a cuenta @unmsm.edu.pe,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_PHISH_012,[Software Innovation Day] Confirmación inmediata de registro para presentación de proyectos,"Estimado participante del evento I Congreso Shark Tank FISI, se requiere la validación del proyecto Filmate (Plataforma de Cines) para mantener su vacante en el Auditorio Principal de la FISI – Ciudad Universitaria. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_HAM_095,Invitación al evento: Seminario de Inteligencia Artificial y Transformación Digital - FISI UNMSM,"Llega el Feria de Proyectos de Ingeniería de Software y UX, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Dra. Marlene Reyes en el Mesa de Partes Virtual UNMSM. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_060,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,El Facultad de Ingeniería de Sistemas e Informática (FISI-UNMSM) reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_007,ALERTA DACC: Regularización de actas de notas y acceso a cuenta @unmsm.edu.pe,"Estimado estudiante de la Facultad de Ingeniería de Sistemas e Informática (FISI-UNMSM), la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_PHISH_028,ALERTA DACC: Regularización de actas de notas y acceso a cuenta @unmsm.edu.pe,"Estimado estudiante de la Unidad de Posgrado e Investigación FISI, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_HAM_021,Publicación de proyectos destacados de Ingeniería de Software y UX,El Escuela Profesional de Ingeniería de Software reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_005,Convocatoria de Becas y Laptops Institucionales UNMSM - Registro de datos urgente,"Estimado participante del evento Software Innovation Day, se requiere la validación del proyecto Arcast (Streaming Peruano) para mantener su vacante en el Portal del Sistema Unificado de Matrícula (SUM). De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_PHISH_033,Vicedecanatura FISI: Verificación de pagos de tasa de matrícula y acceso al portal,"Estimado miembro de la comunidad universitaria, el Facultad de Ingeniería de Sistemas e Informática (FISI-UNMSM) le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_HAM_043,Convocatoria de participación: Feria de Proyectos de Ingeniería de Software y UX en el Mesa de Partes Virtual UNMSM,El Escuela Profesional de Ingeniería de Sistemas reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_HAM_046,Aviso del DACC: Horarios de atención y laboratorios académicos FISI,El Unidad de Posgrado e Investigación FISI reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_HAM_010,Convocatoria de participación: Seminario de Inteligencia Artificial y Transformación Digital en el Laboratorio de Redes y Software FISI,El Departamento Académico de Ciencias de la Computación (DACC) reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_HAM_045,Aviso del DACC: Horarios de atención y laboratorios académicos FISI,"Llega el Software Innovation Day, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Dra. Marlene Reyes en el Mesa de Partes Virtual UNMSM. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_011,Vicedecanatura FISI: Verificación de pagos de tasa de matrícula y acceso al portal,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_PHISH_063,[Shark Tank FISI] Descarga de certificados y aprobación de proyectos seleccionados,"Estimado miembro de la comunidad universitaria, el Escuela Profesional de Ingeniería de Sistemas le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_HAM_013,Aviso del DACC: Horarios de atención y laboratorios académicos FISI,"Llega el Convocatoria de Proyectos de Innovación Tecnológica 2026-II, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Coordinación de Prácticas Preprofesionales en el Auditorio Principal de la FISI – Ciudad Universitaria. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_047,Convocatoria de participación: Convocatoria de Proyectos de Innovación Tecnológica 2026-II en el Portal del Sistema Unificado de Matrícula (SUM),"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Feria de Proyectos de Ingeniería de Software y UX, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Aula-Tech (Gestión Escolar LMS). El evento contará con la presencia de la Comisión Organizadora FISI y se llevará a cabo en el Transmisión en vivo por Facebook Live. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_067,Invitación al evento: Feria de Proyectos de Ingeniería de Software y UX - FISI UNMSM,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Feria de Proyectos de Ingeniería de Software y UX, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Arcast (Streaming Peruano). El evento contará con la presencia de la Dra. Marlene Reyes y se llevará a cabo en el Portal del Sistema Unificado de Matrícula (SUM). Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_001,ALERTA DACC: Regularización de actas de notas y acceso a cuenta @unmsm.edu.pe,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_HAM_099,Boletín Informativo Quincenal del Facultad de Ingeniería de Sistemas e Informática (FISI-UNMSM),El Comité de Grados y Títulos FISI reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_HAM_054,Aviso del DACC: Horarios de atención y laboratorios académicos FISI,El Facultad de Ingeniería de Sistemas e Informática (FISI-UNMSM) reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_071,Comité de Grados y Títulos FISI: Inconsistencia detectada en expediente de graduación,"Estimado participante del evento Software Innovation Day, se requiere la validación del proyecto Filmate (Plataforma de Cines) para mantener su vacante en el Laboratorio de Redes y Software FISI. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_HAM_024,Aviso del DACC: Horarios de atención y laboratorios académicos FISI,El Escuela Profesional de Ingeniería de Software reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_065,[Shark Tank FISI] Descarga de certificados y aprobación de proyectos seleccionados,"Estimado estudiante de la Vicedecanatura Académica FISI, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_PHISH_045,Aviso de suspensión de cuenta institucional @unmsm.edu.pe por inactividad,"Estimado estudiante de la Escuela Profesional de Ingeniería de Software, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_HAM_064,Boletín Informativo Quincenal del Facultad de Ingeniería de Sistemas e Informática (FISI-UNMSM),El Facultad de Ingeniería de Sistemas e Informática (FISI-UNMSM) reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_029,[Software Innovation Day] Confirmación inmediata de registro para presentación de proyectos,"Estimado estudiante de la Vicedecanatura Académica FISI, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_PHISH_041,Convocatoria de Becas y Laptops Institucionales UNMSM - Registro de datos urgente,"Estimado miembro de la comunidad universitaria, el Unidad de Posgrado e Investigación FISI le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_HAM_009,Aviso del DACC: Horarios de atención y laboratorios académicos FISI,"Llega el Seminario de Inteligencia Artificial y Transformación Digital, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Dra. Marlene Reyes en el Portal del Sistema Unificado de Matrícula (SUM). #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_056,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,"Llega el I Congreso Shark Tank FISI, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Jefatura del DACC en el Laboratorio de Redes y Software FISI. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_057,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,"Estimados estudiantes, el Comité de Grados y Títulos FISI les informa que las actividades académicas y talleres de laboratorio se vienen desarrollando en los horarios establecidos. Se recuerda a los alumnos verificar el rol de exámenes parciales publicado en la página web oficial institucional de la facultad. Agradecemos la gentil atención al presente.",es,0
-ES_FISI_PHISH_026,[URGENTE] Validación obligatoria de credenciales en el SUM - Cierre de matrícula FISI,"Estimado participante del evento Software Innovation Day, se requiere la validación del proyecto Púntualo (Calificación Docente) para mantener su vacante en el Transmisión en vivo por Facebook Live. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_PHISH_024,ALERTA DACC: Regularización de actas de notas y acceso a cuenta @unmsm.edu.pe,"Estimado participante del evento Convocatoria de Proyectos de Innovación Tecnológica 2026-II, se requiere la validación del proyecto Aula-Tech (Gestión Escolar LMS) para mantener su vacante en el Laboratorio de Redes y Software FISI. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_HAM_085,Boletín Informativo Quincenal del Facultad de Ingeniería de Sistemas e Informática (FISI-UNMSM),"Estimados estudiantes, el Escuela Profesional de Ingeniería de Sistemas les informa que las actividades académicas y talleres de laboratorio se vienen desarrollando en los horarios establecidos. Se recuerda a los alumnos verificar el rol de exámenes parciales publicado en la página web oficial institucional de la facultad. Agradecemos la gentil atención al presente.",es,0
-ES_FISI_HAM_048,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Software Innovation Day, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Arcast (Streaming Peruano). El evento contará con la presencia de la Jefatura del DACC y se llevará a cabo en el Laboratorio de Redes y Software FISI. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_082,[Software Innovation Day] Confirmación inmediata de registro para presentación de proyectos,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_PHISH_040,Vicedecanatura FISI: Verificación de pagos de tasa de matrícula y acceso al portal,"Estimado estudiante de la Departamento Académico de Ciencias de la Computación (DACC), la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_HAM_069,Boletín Informativo Quincenal del Unidad de Posgrado e Investigación FISI,"Estimados estudiantes, el Vicedecanatura Académica FISI les informa que las actividades académicas y talleres de laboratorio se vienen desarrollando en los horarios establecidos. Se recuerda a los alumnos verificar el rol de exámenes parciales publicado en la página web oficial institucional de la facultad. Agradecemos la gentil atención al presente.",es,0
-ES_FISI_PHISH_048,[Software Innovation Day] Confirmación inmediata de registro para presentación de proyectos,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_PHISH_095,Comité de Grados y Títulos FISI: Inconsistencia detectada en expediente de graduación,"Estimado estudiante de la Escuela Profesional de Ingeniería de Software, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_HAM_055,Publicación de proyectos destacados de Ingeniería de Software y UX,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Seminario de Inteligencia Artificial y Transformación Digital, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Filmate (Plataforma de Cines). El evento contará con la presencia de la Dra. Marlene Reyes y se llevará a cabo en el Mesa de Partes Virtual UNMSM. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_044,Comité de Grados y Títulos FISI: Inconsistencia detectada en expediente de graduación,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_HAM_039,Aviso del DACC: Horarios de atención y laboratorios académicos FISI,El Comité de Grados y Títulos FISI reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_004,[URGENTE] Validación obligatoria de credenciales en el SUM - Cierre de matrícula FISI,"Estimado miembro de la comunidad universitaria, el Comité de Grados y Títulos FISI le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_HAM_006,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,"Estimados estudiantes, el Vicedecanatura Académica FISI les informa que las actividades académicas y talleres de laboratorio se vienen desarrollando en los horarios establecidos. Se recuerda a los alumnos verificar el rol de exámenes parciales publicado en la página web oficial institucional de la facultad. Agradecemos la gentil atención al presente.",es,0
-ES_FISI_PHISH_054,ALERTA DACC: Regularización de actas de notas y acceso a cuenta @unmsm.edu.pe,"Estimado miembro de la comunidad universitaria, el Vicedecanatura Académica FISI le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_HAM_034,Convocatoria de participación: Seminario de Inteligencia Artificial y Transformación Digital en el Portal del Sistema Unificado de Matrícula (SUM),"Llega el Seminario de Inteligencia Artificial y Transformación Digital, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Dra. Marlene Reyes en el Portal del Sistema Unificado de Matrícula (SUM). #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_081,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,"Llega el Software Innovation Day, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Coordinación de Prácticas Preprofesionales en el Laboratorio de Redes y Software FISI. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_079,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Seminario de Inteligencia Artificial y Transformación Digital, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Púntualo (Calificación Docente). El evento contará con la presencia de la Jefatura del DACC y se llevará a cabo en el Laboratorio de Redes y Software FISI. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_086,Convocatoria de participación: Feria de Proyectos de Ingeniería de Software y UX en el Transmisión en vivo por Facebook Live,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del I Congreso Shark Tank FISI, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Arcast (Streaming Peruano). El evento contará con la presencia de la Coordinación de Prácticas Preprofesionales y se llevará a cabo en el Auditorio Principal de la FISI – Ciudad Universitaria. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_050,[URGENTE] Validación obligatoria de credenciales en el SUM - Cierre de matrícula FISI,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_PHISH_081,Convocatoria de Becas y Laptops Institucionales UNMSM - Registro de datos urgente,"Estimado estudiante de la Escuela Profesional de Ingeniería de Sistemas, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_PHISH_035,Vicedecanatura FISI: Verificación de pagos de tasa de matrícula y acceso al portal,"Estimado participante del evento Seminario de Inteligencia Artificial y Transformación Digital, se requiere la validación del proyecto Arcast (Streaming Peruano) para mantener su vacante en el Mesa de Partes Virtual UNMSM. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_PHISH_008,Aviso de suspensión de cuenta institucional @unmsm.edu.pe por inactividad,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_HAM_011,Aviso del DACC: Horarios de atención y laboratorios académicos FISI,"Llega el I Congreso Shark Tank FISI, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Jefatura del DACC en el Portal del Sistema Unificado de Matrícula (SUM). #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_092,Aviso de suspensión de cuenta institucional @unmsm.edu.pe por inactividad,"Estimado estudiante de la Facultad de Ingeniería de Sistemas e Informática (FISI-UNMSM), la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_PHISH_084,[Software Innovation Day] Confirmación inmediata de registro para presentación de proyectos,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_HAM_077,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,"Estimados estudiantes, el Escuela Profesional de Ingeniería de Sistemas les informa que las actividades académicas y talleres de laboratorio se vienen desarrollando en los horarios establecidos. Se recuerda a los alumnos verificar el rol de exámenes parciales publicado en la página web oficial institucional de la facultad. Agradecemos la gentil atención al presente.",es,0
-ES_FISI_HAM_082,Boletín Informativo Quincenal del Departamento Académico de Ciencias de la Computación (DACC),"Llega el Convocatoria de Proyectos de Innovación Tecnológica 2026-II, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Dra. Marlene Reyes en el Transmisión en vivo por Facebook Live. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_090,Convocatoria de Becas y Laptops Institucionales UNMSM - Registro de datos urgente,"Estimado miembro de la comunidad universitaria, el Comité de Grados y Títulos FISI le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_PHISH_009,Comité de Grados y Títulos FISI: Inconsistencia detectada en expediente de graduación,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_PHISH_014,Vicedecanatura FISI: Verificación de pagos de tasa de matrícula y acceso al portal,"Estimado participante del evento Software Innovation Day, se requiere la validación del proyecto Arcast (Streaming Peruano) para mantener su vacante en el Auditorio Principal de la FISI – Ciudad Universitaria. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_PHISH_060,Aviso de suspensión de cuenta institucional @unmsm.edu.pe por inactividad,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_HAM_072,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Seminario de Inteligencia Artificial y Transformación Digital, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Filmate (Plataforma de Cines). El evento contará con la presencia de la Coordinación de Prácticas Preprofesionales y se llevará a cabo en el Mesa de Partes Virtual UNMSM. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_032,Publicación de proyectos destacados de Ingeniería de Software y UX,El Vicedecanatura Académica FISI reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_018,Aviso de suspensión de cuenta institucional @unmsm.edu.pe por inactividad,"Estimado estudiante de la Vicedecanatura Académica FISI, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_PHISH_073,[Shark Tank FISI] Descarga de certificados y aprobación de proyectos seleccionados,"Estimado estudiante de la Vicedecanatura Académica FISI, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_HAM_076,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,"Llega el Convocatoria de Proyectos de Innovación Tecnológica 2026-II, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Comisión Organizadora FISI en el Auditorio Principal de la FISI – Ciudad Universitaria. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_035,Invitación al evento: Feria de Proyectos de Ingeniería de Software y UX - FISI UNMSM,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Seminario de Inteligencia Artificial y Transformación Digital, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Aula-Tech (Gestión Escolar LMS). El evento contará con la presencia de la Dra. Marlene Reyes y se llevará a cabo en el Mesa de Partes Virtual UNMSM. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_068,Invitación al evento: I Congreso Shark Tank FISI - FISI UNMSM,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Feria de Proyectos de Ingeniería de Software y UX, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Arcast (Streaming Peruano). El evento contará con la presencia de la Dirección de la Escuela Profesional de Ingeniería de Software y se llevará a cabo en el Mesa de Partes Virtual UNMSM. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_084,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del I Congreso Shark Tank FISI, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Aula-Tech (Gestión Escolar LMS). El evento contará con la presencia de la Comisión Organizadora FISI y se llevará a cabo en el Auditorio Principal de la FISI – Ciudad Universitaria. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_064,[Shark Tank FISI] Descarga de certificados y aprobación de proyectos seleccionados,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_PHISH_055,ALERTA DACC: Regularización de actas de notas y acceso a cuenta @unmsm.edu.pe,"Estimado miembro de la comunidad universitaria, el Escuela Profesional de Ingeniería de Software le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_HAM_008,Invitación al evento: Feria de Proyectos de Ingeniería de Software y UX - FISI UNMSM,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Convocatoria de Proyectos de Innovación Tecnológica 2026-II, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Púntualo (Calificación Docente). El evento contará con la presencia de la Jefatura del DACC y se llevará a cabo en el Mesa de Partes Virtual UNMSM. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_051,[Shark Tank FISI] Descarga de certificados y aprobación de proyectos seleccionados,"Estimado participante del evento Feria de Proyectos de Ingeniería de Software y UX, se requiere la validación del proyecto Arcast (Streaming Peruano) para mantener su vacante en el Transmisión en vivo por Facebook Live. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_HAM_097,Invitación al evento: I Congreso Shark Tank FISI - FISI UNMSM,"Estimados estudiantes, el Vicedecanatura Académica FISI les informa que las actividades académicas y talleres de laboratorio se vienen desarrollando en los horarios establecidos. Se recuerda a los alumnos verificar el rol de exámenes parciales publicado en la página web oficial institucional de la facultad. Agradecemos la gentil atención al presente.",es,0
-ES_FISI_PHISH_059,Aviso de suspensión de cuenta institucional @unmsm.edu.pe por inactividad,"Estimado estudiante de la Escuela Profesional de Ingeniería de Software, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_PHISH_049,ALERTA DACC: Regularización de actas de notas y acceso a cuenta @unmsm.edu.pe,"Estimado miembro de la comunidad universitaria, el Escuela Profesional de Ingeniería de Sistemas le informa que su correo institucional @unmsm.edu.pe presenta intentos de acceso no autorizados. Para evitar la suspensión definitiva de sus servicios en la plataforma virtual, confirme sus datos en nuestro portal de contingencia: http://fisi-unmsm-soporte-dacc.security-verif.org",es,1
-ES_FISI_PHISH_089,[Shark Tank FISI] Descarga de certificados y aprobación de proyectos seleccionados,"Estimado estudiante de la Vicedecanatura Académica FISI, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_PHISH_022,Aviso de suspensión de cuenta institucional @unmsm.edu.pe por inactividad,"Estimado participante del evento Feria de Proyectos de Ingeniería de Software y UX, se requiere la validación del proyecto EmprendeX (Gestión para Emprendedores) para mantener su vacante en el Laboratorio de Redes y Software FISI. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_PHISH_058,Aviso de suspensión de cuenta institucional @unmsm.edu.pe por inactividad,"Estimado participante del evento I Congreso Shark Tank FISI, se requiere la validación del proyecto Filmate (Plataforma de Cines) para mantener su vacante en el Laboratorio de Redes y Software FISI. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_HAM_061,Convocatoria de participación: Software Innovation Day en el Portal del Sistema Unificado de Matrícula (SUM),"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Convocatoria de Proyectos de Innovación Tecnológica 2026-II, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Púntualo (Calificación Docente). El evento contará con la presencia de la Comisión Organizadora FISI y se llevará a cabo en el Transmisión en vivo por Facebook Live. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_093,Aviso del DACC: Horarios de atención y laboratorios académicos FISI,El Facultad de Ingeniería de Sistemas e Informática (FISI-UNMSM) reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_HAM_030,Convocatoria de participación: Convocatoria de Proyectos de Innovación Tecnológica 2026-II en el Portal del Sistema Unificado de Matrícula (SUM),El Facultad de Ingeniería de Sistemas e Informática (FISI-UNMSM) reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_038,Comité de Grados y Títulos FISI: Inconsistencia detectada en expediente de graduación,"Estimado estudiante de la Unidad de Posgrado e Investigación FISI, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_HAM_058,Invitación al evento: Convocatoria de Proyectos de Innovación Tecnológica 2026-II - FISI UNMSM,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Feria de Proyectos de Ingeniería de Software y UX, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como EmprendeX (Gestión para Emprendedores). El evento contará con la presencia de la Dirección de la Escuela Profesional de Ingeniería de Software y se llevará a cabo en el Laboratorio de Redes y Software FISI. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_094,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Seminario de Inteligencia Artificial y Transformación Digital, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Aula-Tech (Gestión Escolar LMS). El evento contará con la presencia de la Comisión Organizadora FISI y se llevará a cabo en el Mesa de Partes Virtual UNMSM. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_002,[Software Innovation Day] Confirmación inmediata de registro para presentación de proyectos,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_PHISH_053,ALERTA DACC: Regularización de actas de notas y acceso a cuenta @unmsm.edu.pe,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_HAM_050,Convocatoria de participación: Software Innovation Day en el Transmisión en vivo por Facebook Live,"Llega el I Congreso Shark Tank FISI, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Coordinación de Prácticas Preprofesionales en el Portal del Sistema Unificado de Matrícula (SUM). #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_031,Publicación de proyectos destacados de Ingeniería de Software y UX,"Estimados estudiantes, el Comité de Grados y Títulos FISI les informa que las actividades académicas y talleres de laboratorio se vienen desarrollando en los horarios establecidos. Se recuerda a los alumnos verificar el rol de exámenes parciales publicado en la página web oficial institucional de la facultad. Agradecemos la gentil atención al presente.",es,0
-ES_FISI_HAM_052,Publicación de proyectos destacados de Ingeniería de Software y UX,"Llega el Feria de Proyectos de Ingeniería de Software y UX, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Comisión Organizadora FISI en el Transmisión en vivo por Facebook Live. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_004,Invitación al evento: Feria de Proyectos de Ingeniería de Software y UX - FISI UNMSM,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Software Innovation Day, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Arcast (Streaming Peruano). El evento contará con la presencia de la Dirección de la Escuela Profesional de Ingeniería de Software y se llevará a cabo en el Auditorio Principal de la FISI – Ciudad Universitaria. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_100,Comité de Grados y Títulos FISI: Inconsistencia detectada en expediente de graduación,"Estimado participante del evento Seminario de Inteligencia Artificial y Transformación Digital, se requiere la validación del proyecto Arcast (Streaming Peruano) para mantener su vacante en el Portal del Sistema Unificado de Matrícula (SUM). De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_HAM_017,Convocatoria de participación: Feria de Proyectos de Ingeniería de Software y UX en el Laboratorio de Redes y Software FISI,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del I Congreso Shark Tank FISI, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Filmate (Plataforma de Cines). El evento contará con la presencia de la Dra. Marlene Reyes y se llevará a cabo en el Mesa de Partes Virtual UNMSM. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_PHISH_088,Vicedecanatura FISI: Verificación de pagos de tasa de matrícula y acceso al portal,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_PHISH_075,Vicedecanatura FISI: Verificación de pagos de tasa de matrícula y acceso al portal,"Estimado participante del evento Software Innovation Day, se requiere la validación del proyecto Filmate (Plataforma de Cines) para mantener su vacante en el Mesa de Partes Virtual UNMSM. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_HAM_022,Invitación al evento: Software Innovation Day - FISI UNMSM,"Estimada comunidad de la FISI-UNMSM, los invitamos a participar del Software Innovation Day, espacio donde los equipos finalistas de la carrera de Ingeniería de Software presentarán sus proyectos tecnológicos innovadores como Arcast (Streaming Peruano). El evento contará con la presencia de la Dirección de la Escuela Profesional de Ingeniería de Software y se llevará a cabo en el Mesa de Partes Virtual UNMSM. Entrada libre para alumnos y docentes. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_100,Convocatoria de participación: Convocatoria de Proyectos de Innovación Tecnológica 2026-II en el Transmisión en vivo por Facebook Live,El Escuela Profesional de Ingeniería de Sistemas reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_021,Convocatoria de Becas y Laptops Institucionales UNMSM - Registro de datos urgente,"Estimado participante del evento Software Innovation Day, se requiere la validación del proyecto Púntualo (Calificación Docente) para mantener su vacante en el Mesa de Partes Virtual UNMSM. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_HAM_089,Recordatorio sobre el proceso de rectificación de matrícula en la FISI,El Vicedecanatura Académica FISI reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_072,Aviso de suspensión de cuenta institucional @unmsm.edu.pe por inactividad,"Estimado estudiante de la FISI, se ha detectado una inconsistencia crítica en sus credenciales del Sistema Unificado de Matrícula (SUM). Para evitar la rectificación o anulación de sus asignaturas matriculadas con el docente responsable, ingrese de inmediato al siguiente enlace seguro para validar su identidad: http://unmsm-fisi-sum-verificación.portal-login.net/ingreso",es,1
-ES_FISI_HAM_007,Invitación al evento: Convocatoria de Proyectos de Innovación Tecnológica 2026-II - FISI UNMSM,El Escuela Profesional de Ingeniería de Sistemas reafirma su compromiso con la innovación y el emprendimiento en nuestra facultad. Se comunica a los docentes y alumnos que la atención en trámite documentario y mesa de partes virtual atiende regularmente de lunes a viernes de 08:00 a 18:00 hrs.,es,0
-ES_FISI_PHISH_015,[Shark Tank FISI] Descarga de certificados y aprobación de proyectos seleccionados,"Estimado estudiante de la Escuela Profesional de Ingeniería de Software, la Vicedecanatura exige el envío y validación de su comprobante de matrícula del presente semestre lectivo. Evite multas y la suspensión del servicio de biblioteca ingresando al formulario oficial habilitado: http://fisi-unmsm-tesoreria-pagos.com/verificar",es,1
-ES_FISI_PHISH_093,[Shark Tank FISI] Descarga de certificados y aprobación de proyectos seleccionados,"Estimado participante del evento Software Innovation Day, se requiere la validación del proyecto Arcast (Streaming Peruano) para mantener su vacante en el Laboratorio de Redes y Software FISI. De no verificar la documentación de su equipo antes de las 23:59 hrs de hoy, su postulación será dada de baja. Acceda aquí: http://fisi-unmsm-eventos-registro.phish.com/login",es,1
-ES_FISI_HAM_080,Publicación de proyectos destacados de Ingeniería de Software y UX,"Llega el Software Innovation Day, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Jefatura del DACC en el Portal del Sistema Unificado de Matrícula (SUM). #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
-ES_FISI_HAM_003,Convocatoria de participación: Seminario de Inteligencia Artificial y Transformación Digital en el Portal del Sistema Unificado de Matrícula (SUM),"Llega el Software Innovation Day, el escenario donde las mejores ideas de innovación tecnológica se ponen a prueba. En esta edición contaremos con la participación de estudiantes de los cursos de Gestión de Configuración de Software y UX. Fecha y hora coordinadas por la Dra. Marlene Reyes en el Mesa de Partes Virtual UNMSM. #SoftwareInnovationDay #FISIUNMSM #UNMSM #IngenieríaDeSoftware #Innovación #UX #InteligenciaArtificial #TransformaciónDigital #OrgulloSanMarquino",es,0
+﻿id_correo,asunto,cuerpo,idioma,etiqueta,origen
+ES_FISI_PHISH_001,[ALERTA SEGURIDAD] Accesos sospechosos en su correo @unmsm.edu.pe #001,"Estimada comunidad académica,
+
+Se le informa que la Decanatura de la FISI informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_001,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #001,"Estimada comunidad académica,
+
+la Dirección Académica de la Escuela de Ingeniería de Software comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_002,[OPORTUNIDAD] Beca de certificación internacional para la comunidad FISI #002,"Estimada comunidad académica,
+
+Se le informa que el Comité de Grados y Títulos ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://unmsm-verificacion-portal.net/login-fisi
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_002,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #002,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+el Centro de Cómputo e Informática UNMSM comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_003,[FISI UNMSM] Rectificación extraordinaria de actas y notas 2026-II #003,"Estimado estudiante de la FISI,
+
+Se le informa que el DACC (Departamento Académico de Computación) ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_003,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #003,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+la Unidad de Posgrado de la FISI comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_004,[OPORTUNIDAD] Beca de certificación internacional para la comunidad FISI #004,"Estimada comunidad académica,
+
+Se le informa que la Unidad de Posgrado de la FISI ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://unmsm-verificacion-portal.net/login-fisi
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_004,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #004,"Estimado egresado de la facultad,
+
+la Dirección Académica de la Escuela de Ingeniería de Software comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_005,[URGENTE] Verificación de credenciales en el SUM - Cierre de cuenta #005,"Estimado(a) participante del evento,
+
+Se le informa que el Comité de Grados y Títulos informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://seguridad-fisi-unmsm.org/validar-cuenta
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_005,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #005,"Estimada comunidad académica,
+
+el Comité de Grados y Títulos comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_006,[FISI UNMSM] Rectificación extraordinaria de actas y notas 2026-II #006,"Estimado egresado de la facultad,
+
+Se le informa que la Unidad de Posgrado de la FISI ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_006,[Software Innovation Day] Confirmación de registro para presentación de proyectos - Edición #006,"Estimado usuario del correo @unmsm.edu.pe,
+
+la Dirección Académica de la Escuela de Ingeniería de Software comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_007,[FISI UNMSM] Rectificación extraordinaria de actas y notas 2026-II #007,"Atención miembro de la UNMSM,
+
+Se le informa que la Coordinación del Registro de Matrícula y Actas ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_007,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #007,"Estimado(a) participante del evento,
+
+la Decanatura de la FISI comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_008,[ALERTA SEGURIDAD] Accesos sospechosos en su correo @unmsm.edu.pe #008,"A la comunidad universitaria FISI,
+
+Se le informa que el Laboratorio de Inteligencia Artificial y Robótica ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://seguridad-fisi-unmsm.org/validar-cuenta
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_008,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #008,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+la Coordinación del Registro de Matrícula y Actas comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_009,[OPORTUNIDAD] Beca de certificación internacional para la comunidad FISI #009,"Estimado usuario del correo @unmsm.edu.pe,
+
+Se le informa que el DACC (Departamento Académico de Computación) ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://seguridad-fisi-unmsm.org/validar-cuenta
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_009,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #009,"A la comunidad universitaria FISI,
+
+el Centro de Cómputo e Informática UNMSM comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_010,[URGENTE] Verificación de credenciales en el SUM - Cierre de cuenta #010,"Estimado egresado de la facultad,
+
+Se le informa que la Dirección Académica de la Escuela de Ingeniería de Software informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_010,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #010,"A la comunidad universitaria FISI,
+
+la Dirección Académica de la Escuela de Ingeniería de Software comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_011,[OPORTUNIDAD] Beca de certificación internacional para la comunidad FISI #011,"Estimado usuario del correo @unmsm.edu.pe,
+
+Se le informa que la Decanatura de la FISI ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://seguridad-fisi-unmsm.org/validar-cuenta
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_011,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #011,"Estimada comunidad académica,
+
+el Laboratorio de Inteligencia Artificial y Robótica comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_012,[OPORTUNIDAD] Beca de certificación internacional para la comunidad FISI #012,"Estimado estudiante de la FISI,
+
+Se le informa que el Laboratorio de Inteligencia Artificial y Robótica ha detectado accesos no autorizados a su cuenta institucional. Ingrese inmediatamente al portal de verificación para evitar el bloqueo permanente:
+http://seguridad-fisi-unmsm.org/validar-cuenta
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_012,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #012,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+el DACC (Departamento Académico de Computación) comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_013,[URGENTE] Verificación de credenciales en el SUM - Cierre de cuenta #013,"Estimado(a) participante del evento,
+
+Se le informa que la Coordinación del Registro de Matrícula y Actas ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://seguridad-fisi-unmsm.org/validar-cuenta
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_013,[Software Innovation Day] Confirmación de registro para presentación de proyectos - Edición #013,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+la Decanatura de la FISI comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_014,[OPORTUNIDAD] Beca de certificación internacional para la comunidad FISI #014,"Estimada comunidad académica,
+
+Se le informa que la Coordinación del Registro de Matrícula y Actas informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_014,[Software Innovation Day] Confirmación de registro para presentación de proyectos - Edición #014,"Estimado egresado de la facultad,
+
+el DACC (Departamento Académico de Computación) comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_015,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #015,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+Se le informa que el Comité de Grados y Títulos ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://becas-certificacion-unmsm.cloud/registro
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_015,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #015,"Estimado egresado de la facultad,
+
+la Dirección Académica de la Escuela de Ingeniería de Software comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_016,[OPORTUNIDAD] Beca de certificación internacional para la comunidad FISI #016,"Estimado(a) participante del evento,
+
+Se le informa que la Decanatura de la FISI informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://unmsm-verificacion-portal.net/login-fisi
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_016,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #016,"Estimada comunidad académica,
+
+la Decanatura de la FISI comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_017,[FISI UNMSM] Rectificación extraordinaria de actas y notas 2026-II #017,"Estimado(a) participante del evento,
+
+Se le informa que la Dirección Académica de la Escuela de Ingeniería de Software comunica el vencimiento inminente de sus credenciales de acceso al SUM (Sistema Único de Matrícula). Actualice su contraseña aquí:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_017,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #017,"Atención miembro de la UNMSM,
+
+la Coordinación del Registro de Matrícula y Actas comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_018,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #018,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+Se le informa que la Dirección Académica de la Escuela de Ingeniería de Software ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://becas-certificacion-unmsm.cloud/registro
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_018,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #018,"A la comunidad universitaria FISI,
+
+la Coordinación del Registro de Matrícula y Actas comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_019,[ALERTA SEGURIDAD] Accesos sospechosos en su correo @unmsm.edu.pe #019,"A la comunidad universitaria FISI,
+
+Se le informa que la Unidad de Posgrado de la FISI informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_019,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #019,"Estimado egresado de la facultad,
+
+el DACC (Departamento Académico de Computación) comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_020,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #020,"Estimado egresado de la facultad,
+
+Se le informa que el Comité de Grados y Títulos ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://unmsm-verificacion-portal.net/login-fisi
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_020,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #020,"Estimado estudiante de la FISI,
+
+la Decanatura de la FISI comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_021,[ALERTA SEGURIDAD] Accesos sospechosos en su correo @unmsm.edu.pe #021,"A la comunidad universitaria FISI,
+
+Se le informa que la Coordinación del Registro de Matrícula y Actas comunica el vencimiento inminente de sus credenciales de acceso al SUM (Sistema Único de Matrícula). Actualice su contraseña aquí:
+http://unmsm-verificacion-portal.net/login-fisi
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_021,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #021,"Atención miembro de la UNMSM,
+
+el Centro de Cómputo e Informática UNMSM comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_022,[OPORTUNIDAD] Beca de certificación internacional para la comunidad FISI #022,"Estimado egresado de la facultad,
+
+Se le informa que el Laboratorio de Inteligencia Artificial y Robótica comunica el vencimiento inminente de sus credenciales de acceso al SUM (Sistema Único de Matrícula). Actualice su contraseña aquí:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_022,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #022,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+el Laboratorio de Inteligencia Artificial y Robótica comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_023,[OPORTUNIDAD] Beca de certificación internacional para la comunidad FISI #023,"Estimado(a) participante del evento,
+
+Se le informa que la Decanatura de la FISI comunica el vencimiento inminente de sus credenciales de acceso al SUM (Sistema Único de Matrícula). Actualice su contraseña aquí:
+http://portal-actas-fisi2026.info/login
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_023,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #023,"Atención miembro de la UNMSM,
+
+la Decanatura de la FISI comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_024,[URGENTE] Verificación de credenciales en el SUM - Cierre de cuenta #024,"Estimada comunidad académica,
+
+Se le informa que el Comité de Grados y Títulos ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_024,[Software Innovation Day] Confirmación de registro para presentación de proyectos - Edición #024,"Estimado estudiante de la FISI,
+
+la Dirección Académica de la Escuela de Ingeniería de Software comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_025,[ALERTA SEGURIDAD] Accesos sospechosos en su correo @unmsm.edu.pe #025,"Estimado usuario del correo @unmsm.edu.pe,
+
+Se le informa que el Comité de Grados y Títulos ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://becas-certificacion-unmsm.cloud/registro
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_025,Invitación al evento: Feria de Proyectos de Software y UX - FISI UNMSM - Edición #025,"Atención miembro de la UNMSM,
+
+el Laboratorio de Inteligencia Artificial y Robótica comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_026,[URGENTE] Verificación de credenciales en el SUM - Cierre de cuenta #026,"Estimado estudiante de la FISI,
+
+Se le informa que la Coordinación del Registro de Matrícula y Actas ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_026,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #026,"Estimado usuario del correo @unmsm.edu.pe,
+
+el DACC (Departamento Académico de Computación) comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_027,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #027,"Estimado(a) participante del evento,
+
+Se le informa que el Laboratorio de Inteligencia Artificial y Robótica ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://seguridad-fisi-unmsm.org/validar-cuenta
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_027,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #027,"Estimado estudiante de la FISI,
+
+el Laboratorio de Inteligencia Artificial y Robótica comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_028,[FISI UNMSM] Rectificación extraordinaria de actas y notas 2026-II #028,"Estimada comunidad académica,
+
+Se le informa que la Dirección Académica de la Escuela de Ingeniería de Software ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://portal-actas-fisi2026.info/login
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_028,Invitación al evento: Feria de Proyectos de Software y UX - FISI UNMSM - Edición #028,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+la Unidad de Posgrado de la FISI comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_029,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #029,"Estimado usuario del correo @unmsm.edu.pe,
+
+Se le informa que la Decanatura de la FISI ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://unmsm-verificacion-portal.net/login-fisi
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_029,Invitación al evento: Feria de Proyectos de Software y UX - FISI UNMSM - Edición #029,"Estimado estudiante de la FISI,
+
+la Unidad de Posgrado de la FISI comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_030,[URGENTE] Verificación de credenciales en el SUM - Cierre de cuenta #030,"Estimado egresado de la facultad,
+
+Se le informa que el Centro de Cómputo e Informática UNMSM ha detectado accesos no autorizados a su cuenta institucional. Ingrese inmediatamente al portal de verificación para evitar el bloqueo permanente:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_031,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #031,"Estimado estudiante de la FISI,
+
+el Laboratorio de Inteligencia Artificial y Robótica comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_031,[FISI UNMSM] Rectificación extraordinaria de actas y notas 2026-II #031,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+Se le informa que el Comité de Grados y Títulos ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://becas-certificacion-unmsm.cloud/registro
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_032,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #032,"Atención miembro de la UNMSM,
+
+el Comité de Grados y Títulos comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_032,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #032,"Estimado estudiante de la FISI,
+
+Se le informa que el DACC (Departamento Académico de Computación) informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://seguridad-fisi-unmsm.org/validar-cuenta
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_033,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #033,"Atención miembro de la UNMSM,
+
+la Dirección Académica de la Escuela de Ingeniería de Software comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_033,[FISI UNMSM] Rectificación extraordinaria de actas y notas 2026-II #033,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+Se le informa que el Comité de Grados y Títulos ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_034,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #034,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+la Decanatura de la FISI comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_034,[FISI UNMSM] Rectificación extraordinaria de actas y notas 2026-II #034,"Estimado usuario del correo @unmsm.edu.pe,
+
+Se le informa que la Dirección Académica de la Escuela de Ingeniería de Software ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://becas-certificacion-unmsm.cloud/registro
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_035,Invitación al evento: Feria de Proyectos de Software y UX - FISI UNMSM - Edición #035,"Estimado(a) participante del evento,
+
+la Decanatura de la FISI comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_035,[OPORTUNIDAD] Beca de certificación internacional para la comunidad FISI #035,"Estimado usuario del correo @unmsm.edu.pe,
+
+Se le informa que la Decanatura de la FISI comunica el vencimiento inminente de sus credenciales de acceso al SUM (Sistema Único de Matrícula). Actualice su contraseña aquí:
+http://seguridad-fisi-unmsm.org/validar-cuenta
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_036,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #036,"Estimado(a) participante del evento,
+
+el Centro de Cómputo e Informática UNMSM comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_036,[URGENTE] Verificación de credenciales en el SUM - Cierre de cuenta #036,"Estimado usuario del correo @unmsm.edu.pe,
+
+Se le informa que la Decanatura de la FISI ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://portal-actas-fisi2026.info/login
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_037,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #037,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+la Unidad de Posgrado de la FISI comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_037,[OPORTUNIDAD] Beca de certificación internacional para la comunidad FISI #037,"Estimado(a) participante del evento,
+
+Se le informa que la Dirección Académica de la Escuela de Ingeniería de Software ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://becas-certificacion-unmsm.cloud/registro
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_038,[Software Innovation Day] Confirmación de registro para presentación de proyectos - Edición #038,"Estimado(a) participante del evento,
+
+el Centro de Cómputo e Informática UNMSM comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_038,[ALERTA SEGURIDAD] Accesos sospechosos en su correo @unmsm.edu.pe #038,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+Se le informa que el Centro de Cómputo e Informática UNMSM ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://portal-actas-fisi2026.info/login
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_039,Invitación al evento: Feria de Proyectos de Software y UX - FISI UNMSM - Edición #039,"Estimado usuario del correo @unmsm.edu.pe,
+
+el Centro de Cómputo e Informática UNMSM comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_039,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #039,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+Se le informa que el Centro de Cómputo e Informática UNMSM comunica el vencimiento inminente de sus credenciales de acceso al SUM (Sistema Único de Matrícula). Actualice su contraseña aquí:
+http://becas-certificacion-unmsm.cloud/registro
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_040,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #040,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+la Coordinación del Registro de Matrícula y Actas comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_040,[FISI UNMSM] Rectificación extraordinaria de actas y notas 2026-II #040,"Estimado(a) participante del evento,
+
+Se le informa que la Dirección Académica de la Escuela de Ingeniería de Software informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_041,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #041,"Atención miembro de la UNMSM,
+
+la Decanatura de la FISI comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_041,[OPORTUNIDAD] Beca de certificación internacional para la comunidad FISI #041,"Estimada comunidad académica,
+
+Se le informa que la Coordinación del Registro de Matrícula y Actas informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://becas-certificacion-unmsm.cloud/registro
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_042,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #042,"Estimado egresado de la facultad,
+
+el Centro de Cómputo e Informática UNMSM comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_042,[ALERTA SEGURIDAD] Accesos sospechosos en su correo @unmsm.edu.pe #042,"Estimada comunidad académica,
+
+Se le informa que el Centro de Cómputo e Informática UNMSM ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://becas-certificacion-unmsm.cloud/registro
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_043,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #043,"Estimado estudiante de la FISI,
+
+el Comité de Grados y Títulos comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_043,[OPORTUNIDAD] Beca de certificación internacional para la comunidad FISI #043,"Estimado egresado de la facultad,
+
+Se le informa que la Unidad de Posgrado de la FISI ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://becas-certificacion-unmsm.cloud/registro
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_045,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #045,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+el Laboratorio de Inteligencia Artificial y Robótica comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_044,[ALERTA SEGURIDAD] Accesos sospechosos en su correo @unmsm.edu.pe #044,"Estimado egresado de la facultad,
+
+Se le informa que la Dirección Académica de la Escuela de Ingeniería de Software ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://seguridad-fisi-unmsm.org/validar-cuenta
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_046,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #046,"Estimado(a) participante del evento,
+
+la Dirección Académica de la Escuela de Ingeniería de Software comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_045,[URGENTE] Verificación de credenciales en el SUM - Cierre de cuenta #045,"A la comunidad universitaria FISI,
+
+Se le informa que el DACC (Departamento Académico de Computación) comunica el vencimiento inminente de sus credenciales de acceso al SUM (Sistema Único de Matrícula). Actualice su contraseña aquí:
+http://becas-certificacion-unmsm.cloud/registro
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_047,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #047,"Estimado(a) participante del evento,
+
+la Coordinación del Registro de Matrícula y Actas comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_046,[OPORTUNIDAD] Beca de certificación internacional para la comunidad FISI #046,"A la comunidad universitaria FISI,
+
+Se le informa que el Centro de Cómputo e Informática UNMSM comunica el vencimiento inminente de sus credenciales de acceso al SUM (Sistema Único de Matrícula). Actualice su contraseña aquí:
+http://becas-certificacion-unmsm.cloud/registro
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_048,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #048,"Estimado estudiante de la FISI,
+
+la Unidad de Posgrado de la FISI comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_047,[FISI UNMSM] Rectificación extraordinaria de actas y notas 2026-II #047,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+Se le informa que la Coordinación del Registro de Matrícula y Actas comunica el vencimiento inminente de sus credenciales de acceso al SUM (Sistema Único de Matrícula). Actualice su contraseña aquí:
+http://becas-certificacion-unmsm.cloud/registro
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_049,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #049,"Estimado estudiante de la FISI,
+
+el Centro de Cómputo e Informática UNMSM comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_048,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #048,"Estimado egresado de la facultad,
+
+Se le informa que el DACC (Departamento Académico de Computación) ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://portal-actas-fisi2026.info/login
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_050,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #050,"Estimado estudiante de la FISI,
+
+la Dirección Académica de la Escuela de Ingeniería de Software comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_049,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #049,"Atención miembro de la UNMSM,
+
+Se le informa que la Decanatura de la FISI ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_051,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #051,"Estimado egresado de la facultad,
+
+la Unidad de Posgrado de la FISI comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_050,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #050,"A la comunidad universitaria FISI,
+
+Se le informa que el Laboratorio de Inteligencia Artificial y Robótica ha detectado accesos no autorizados a su cuenta institucional. Ingrese inmediatamente al portal de verificación para evitar el bloqueo permanente:
+http://portal-actas-fisi2026.info/login
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_052,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #052,"Estimado estudiante de la FISI,
+
+la Unidad de Posgrado de la FISI comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_051,[URGENTE] Verificación de credenciales en el SUM - Cierre de cuenta #051,"Estimado estudiante de la FISI,
+
+Se le informa que el Comité de Grados y Títulos ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_053,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #053,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+el DACC (Departamento Académico de Computación) comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_052,[ALERTA SEGURIDAD] Accesos sospechosos en su correo @unmsm.edu.pe #052,"Estimado egresado de la facultad,
+
+Se le informa que el Laboratorio de Inteligencia Artificial y Robótica ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://portal-actas-fisi2026.info/login
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_054,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #054,"Estimada comunidad académica,
+
+el DACC (Departamento Académico de Computación) comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_053,[ALERTA SEGURIDAD] Accesos sospechosos en su correo @unmsm.edu.pe #053,"Estimado usuario del correo @unmsm.edu.pe,
+
+Se le informa que el Centro de Cómputo e Informática UNMSM ha detectado accesos no autorizados a su cuenta institucional. Ingrese inmediatamente al portal de verificación para evitar el bloqueo permanente:
+http://portal-actas-fisi2026.info/login
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_055,[Software Innovation Day] Confirmación de registro para presentación de proyectos - Edición #055,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+la Dirección Académica de la Escuela de Ingeniería de Software comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_054,[FISI UNMSM] Rectificación extraordinaria de actas y notas 2026-II #054,"Estimado estudiante de la FISI,
+
+Se le informa que la Unidad de Posgrado de la FISI ha detectado accesos no autorizados a su cuenta institucional. Ingrese inmediatamente al portal de verificación para evitar el bloqueo permanente:
+http://portal-actas-fisi2026.info/login
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_056,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #056,"Estimado(a) participante del evento,
+
+la Decanatura de la FISI comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_055,[ALERTA SEGURIDAD] Accesos sospechosos en su correo @unmsm.edu.pe #055,"A la comunidad universitaria FISI,
+
+Se le informa que la Unidad de Posgrado de la FISI comunica el vencimiento inminente de sus credenciales de acceso al SUM (Sistema Único de Matrícula). Actualice su contraseña aquí:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_057,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #057,"Estimado usuario del correo @unmsm.edu.pe,
+
+la Coordinación del Registro de Matrícula y Actas comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_056,[FISI UNMSM] Rectificación extraordinaria de actas y notas 2026-II #056,"Estimado(a) participante del evento,
+
+Se le informa que el Comité de Grados y Títulos comunica el vencimiento inminente de sus credenciales de acceso al SUM (Sistema Único de Matrícula). Actualice su contraseña aquí:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_058,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #058,"Estimado egresado de la facultad,
+
+el Centro de Cómputo e Informática UNMSM comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_057,[ALERTA SEGURIDAD] Accesos sospechosos en su correo @unmsm.edu.pe #057,"Estimado(a) participante del evento,
+
+Se le informa que el DACC (Departamento Académico de Computación) ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://seguridad-fisi-unmsm.org/validar-cuenta
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_059,[Software Innovation Day] Confirmación de registro para presentación de proyectos - Edición #059,"Estimado(a) participante del evento,
+
+el Laboratorio de Inteligencia Artificial y Robótica comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_058,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #058,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+Se le informa que la Dirección Académica de la Escuela de Ingeniería de Software comunica el vencimiento inminente de sus credenciales de acceso al SUM (Sistema Único de Matrícula). Actualice su contraseña aquí:
+http://portal-actas-fisi2026.info/login
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_060,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #060,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+la Coordinación del Registro de Matrícula y Actas comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_059,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #059,"Estimada comunidad académica,
+
+Se le informa que el Laboratorio de Inteligencia Artificial y Robótica informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://seguridad-fisi-unmsm.org/validar-cuenta
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_061,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #061,"Estimado(a) participante del evento,
+
+la Coordinación del Registro de Matrícula y Actas comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_060,[FISI UNMSM] Rectificación extraordinaria de actas y notas 2026-II #060,"Estimado(a) participante del evento,
+
+Se le informa que la Coordinación del Registro de Matrícula y Actas ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_062,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #062,"Estimada comunidad académica,
+
+el Comité de Grados y Títulos comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_061,[FISI UNMSM] Rectificación extraordinaria de actas y notas 2026-II #061,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+Se le informa que el Comité de Grados y Títulos ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://portal-actas-fisi2026.info/login
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_064,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #064,"Estimado(a) participante del evento,
+
+el DACC (Departamento Académico de Computación) comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_062,[OPORTUNIDAD] Beca de certificación internacional para la comunidad FISI #062,"Estimado usuario del correo @unmsm.edu.pe,
+
+Se le informa que la Decanatura de la FISI ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_065,[Software Innovation Day] Confirmación de registro para presentación de proyectos - Edición #065,"Estimado egresado de la facultad,
+
+la Dirección Académica de la Escuela de Ingeniería de Software comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_063,[FISI UNMSM] Rectificación extraordinaria de actas y notas 2026-II #063,"Estimado egresado de la facultad,
+
+Se le informa que la Coordinación del Registro de Matrícula y Actas informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://unmsm-verificacion-portal.net/login-fisi
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_066,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #066,"Estimado usuario del correo @unmsm.edu.pe,
+
+la Coordinación del Registro de Matrícula y Actas comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_064,[ALERTA SEGURIDAD] Accesos sospechosos en su correo @unmsm.edu.pe #064,"Estimado egresado de la facultad,
+
+Se le informa que la Dirección Académica de la Escuela de Ingeniería de Software informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://portal-actas-fisi2026.info/login
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_067,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #067,"Estimado usuario del correo @unmsm.edu.pe,
+
+la Dirección Académica de la Escuela de Ingeniería de Software comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_065,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #065,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+Se le informa que el Centro de Cómputo e Informática UNMSM ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://portal-actas-fisi2026.info/login
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_068,[Software Innovation Day] Confirmación de registro para presentación de proyectos - Edición #068,"A la comunidad universitaria FISI,
+
+el Laboratorio de Inteligencia Artificial y Robótica comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_066,[URGENTE] Verificación de credenciales en el SUM - Cierre de cuenta #066,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+Se le informa que el Comité de Grados y Títulos informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_069,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #069,"Atención miembro de la UNMSM,
+
+la Dirección Académica de la Escuela de Ingeniería de Software comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_067,[URGENTE] Verificación de credenciales en el SUM - Cierre de cuenta #067,"Estimado egresado de la facultad,
+
+Se le informa que la Coordinación del Registro de Matrícula y Actas informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://seguridad-fisi-unmsm.org/validar-cuenta
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_070,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #070,"Estimado usuario del correo @unmsm.edu.pe,
+
+la Coordinación del Registro de Matrícula y Actas comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_068,[OPORTUNIDAD] Beca de certificación internacional para la comunidad FISI #068,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+Se le informa que el Centro de Cómputo e Informática UNMSM informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_071,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #071,"Estimado usuario del correo @unmsm.edu.pe,
+
+el DACC (Departamento Académico de Computación) comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_069,[URGENTE] Verificación de credenciales en el SUM - Cierre de cuenta #069,"Estimado usuario del correo @unmsm.edu.pe,
+
+Se le informa que el Laboratorio de Inteligencia Artificial y Robótica comunica el vencimiento inminente de sus credenciales de acceso al SUM (Sistema Único de Matrícula). Actualice su contraseña aquí:
+http://seguridad-fisi-unmsm.org/validar-cuenta
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_072,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #072,"A la comunidad universitaria FISI,
+
+el Laboratorio de Inteligencia Artificial y Robótica comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_070,[OPORTUNIDAD] Beca de certificación internacional para la comunidad FISI #070,"Estimado estudiante de la FISI,
+
+Se le informa que el Centro de Cómputo e Informática UNMSM ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://unmsm-verificacion-portal.net/login-fisi
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_073,Invitación al evento: Feria de Proyectos de Software y UX - FISI UNMSM - Edición #073,"Estimada comunidad académica,
+
+el Comité de Grados y Títulos comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_071,[FISI UNMSM] Rectificación extraordinaria de actas y notas 2026-II #071,"Atención miembro de la UNMSM,
+
+Se le informa que la Coordinación del Registro de Matrícula y Actas informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://portal-actas-fisi2026.info/login
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_074,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #074,"A la comunidad universitaria FISI,
+
+la Coordinación del Registro de Matrícula y Actas comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_072,[URGENTE] Verificación de credenciales en el SUM - Cierre de cuenta #072,"A la comunidad universitaria FISI,
+
+Se le informa que la Unidad de Posgrado de la FISI informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://seguridad-fisi-unmsm.org/validar-cuenta
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_075,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #075,"A la comunidad universitaria FISI,
+
+la Coordinación del Registro de Matrícula y Actas comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_073,[FISI UNMSM] Rectificación extraordinaria de actas y notas 2026-II #073,"Estimado egresado de la facultad,
+
+Se le informa que la Dirección Académica de la Escuela de Ingeniería de Software ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://unmsm-verificacion-portal.net/login-fisi
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_076,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #076,"A la comunidad universitaria FISI,
+
+la Decanatura de la FISI comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_074,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #074,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+Se le informa que la Unidad de Posgrado de la FISI ha detectado accesos no autorizados a su cuenta institucional. Ingrese inmediatamente al portal de verificación para evitar el bloqueo permanente:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_077,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #077,"Estimado usuario del correo @unmsm.edu.pe,
+
+el DACC (Departamento Académico de Computación) comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_075,[ALERTA SEGURIDAD] Accesos sospechosos en su correo @unmsm.edu.pe #075,"Estimada comunidad académica,
+
+Se le informa que la Decanatura de la FISI ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://portal-actas-fisi2026.info/login
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_078,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #078,"Estimado estudiante de la FISI,
+
+el Centro de Cómputo e Informática UNMSM comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_076,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #076,"Estimado egresado de la facultad,
+
+Se le informa que la Dirección Académica de la Escuela de Ingeniería de Software ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://portal-actas-fisi2026.info/login
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_079,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #079,"Estimado usuario del correo @unmsm.edu.pe,
+
+el Centro de Cómputo e Informática UNMSM comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_077,[ALERTA SEGURIDAD] Accesos sospechosos en su correo @unmsm.edu.pe #077,"Estimado egresado de la facultad,
+
+Se le informa que el DACC (Departamento Académico de Computación) ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://portal-actas-fisi2026.info/login
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_080,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #080,"Atención miembro de la UNMSM,
+
+la Dirección Académica de la Escuela de Ingeniería de Software comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_078,[FISI UNMSM] Rectificación extraordinaria de actas y notas 2026-II #078,"Estimado usuario del correo @unmsm.edu.pe,
+
+Se le informa que la Decanatura de la FISI ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://portal-actas-fisi2026.info/login
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_081,[Software Innovation Day] Confirmación de registro para presentación de proyectos - Edición #081,"Estimado egresado de la facultad,
+
+el DACC (Departamento Académico de Computación) comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_079,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #079,"Estimado(a) participante del evento,
+
+Se le informa que la Unidad de Posgrado de la FISI ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_082,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #082,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+el Centro de Cómputo e Informática UNMSM comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_080,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #080,"Estimado(a) participante del evento,
+
+Se le informa que la Coordinación del Registro de Matrícula y Actas informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://becas-certificacion-unmsm.cloud/registro
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_083,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #083,"Estimado estudiante de la FISI,
+
+el DACC (Departamento Académico de Computación) comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_081,[ALERTA SEGURIDAD] Accesos sospechosos en su correo @unmsm.edu.pe #081,"Estimada comunidad académica,
+
+Se le informa que la Coordinación del Registro de Matrícula y Actas comunica el vencimiento inminente de sus credenciales de acceso al SUM (Sistema Único de Matrícula). Actualice su contraseña aquí:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_084,Invitación al evento: Feria de Proyectos de Software y UX - FISI UNMSM - Edición #084,"Estimada comunidad académica,
+
+la Coordinación del Registro de Matrícula y Actas comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_082,[FISI UNMSM] Rectificación extraordinaria de actas y notas 2026-II #082,"Estimada comunidad académica,
+
+Se le informa que la Unidad de Posgrado de la FISI comunica el vencimiento inminente de sus credenciales de acceso al SUM (Sistema Único de Matrícula). Actualice su contraseña aquí:
+http://portal-actas-fisi2026.info/login
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_085,Invitación al evento: Feria de Proyectos de Software y UX - FISI UNMSM - Edición #085,"Estimado estudiante de la FISI,
+
+la Dirección Académica de la Escuela de Ingeniería de Software comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_083,[URGENTE] Verificación de credenciales en el SUM - Cierre de cuenta #083,"Estimada comunidad académica,
+
+Se le informa que el Centro de Cómputo e Informática UNMSM comunica el vencimiento inminente de sus credenciales de acceso al SUM (Sistema Único de Matrícula). Actualice su contraseña aquí:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_086,Invitación al evento: Feria de Proyectos de Software y UX - FISI UNMSM - Edición #086,"Estimado usuario del correo @unmsm.edu.pe,
+
+la Decanatura de la FISI comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_084,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #084,"Estimado usuario del correo @unmsm.edu.pe,
+
+Se le informa que la Unidad de Posgrado de la FISI informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_087,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #087,"A la comunidad universitaria FISI,
+
+el DACC (Departamento Académico de Computación) comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_085,[OPORTUNIDAD] Beca de certificación internacional para la comunidad FISI #085,"A la comunidad universitaria FISI,
+
+Se le informa que el Comité de Grados y Títulos informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_088,Invitación al evento: Feria de Proyectos de Software y UX - FISI UNMSM - Edición #088,"Estimado egresado de la facultad,
+
+el Laboratorio de Inteligencia Artificial y Robótica comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_086,[URGENTE] Verificación de credenciales en el SUM - Cierre de cuenta #086,"Estimado egresado de la facultad,
+
+Se le informa que el Laboratorio de Inteligencia Artificial y Robótica comunica el vencimiento inminente de sus credenciales de acceso al SUM (Sistema Único de Matrícula). Actualice su contraseña aquí:
+http://seguridad-fisi-unmsm.org/validar-cuenta
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_089,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #089,"Estimado usuario del correo @unmsm.edu.pe,
+
+el Centro de Cómputo e Informática UNMSM comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_087,[URGENTE] Verificación de credenciales en el SUM - Cierre de cuenta #087,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+Se le informa que el Centro de Cómputo e Informática UNMSM informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://becas-certificacion-unmsm.cloud/registro
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_090,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #090,"Estimado(a) participante del evento,
+
+el Laboratorio de Inteligencia Artificial y Robótica comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_089,[ALERTA SEGURIDAD] Accesos sospechosos en su correo @unmsm.edu.pe #089,"Estimado docente de la Escuela Profesional de Ingeniería de Software,
+
+Se le informa que la Unidad de Posgrado de la FISI ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://seguridad-fisi-unmsm.org/validar-cuenta
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_091,Invitación al evento: Feria de Proyectos de Software y UX - FISI UNMSM - Edición #091,"Atención miembro de la UNMSM,
+
+la Dirección Académica de la Escuela de Ingeniería de Software comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_090,[URGENTE] Verificación de credenciales en el SUM - Cierre de cuenta #090,"Estimado estudiante de la FISI,
+
+Se le informa que la Unidad de Posgrado de la FISI ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://seguridad-fisi-unmsm.org/validar-cuenta
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_092,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #092,"A la comunidad universitaria FISI,
+
+el DACC (Departamento Académico de Computación) comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_091,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #091,"Estimado usuario del correo @unmsm.edu.pe,
+
+Se le informa que el DACC (Departamento Académico de Computación) ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://seguridad-fisi-unmsm.org/validar-cuenta
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_093,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #093,"Estimada comunidad académica,
+
+la Coordinación del Registro de Matrícula y Actas comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_092,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #092,"A la comunidad universitaria FISI,
+
+Se le informa que la Unidad de Posgrado de la FISI ha detectado accesos no autorizados a su cuenta institucional. Ingrese inmediatamente al portal de verificación para evitar el bloqueo permanente:
+http://seguridad-fisi-unmsm.org/validar-cuenta
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_095,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #095,"Estimado(a) participante del evento,
+
+la Dirección Académica de la Escuela de Ingeniería de Software comunica lo siguiente:
+Nos complace invitar a todos los estudiantes e investigadores a presentar sus propuestas en la nueva edición de la feria académica de la facultad. La recepción de borradores estará abierta hasta este viernes.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_093,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #093,"Estimado(a) participante del evento,
+
+Se le informa que el Comité de Grados y Títulos ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://becas-certificacion-unmsm.cloud/registro
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_096,Convocatoria abierta: Proyectos de Innovación Tecnológica 2026-II UNMSM - Edición #096,"Estimada comunidad académica,
+
+el DACC (Departamento Académico de Computación) comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_094,[ALERTA SEGURIDAD] Accesos sospechosos en su correo @unmsm.edu.pe #094,"Estimado egresado de la facultad,
+
+Se le informa que la Dirección Académica de la Escuela de Ingeniería de Software ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://sum-unmsm-actualizacion.com/credenciales
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_097,[Software Innovation Day] Confirmación de registro para presentación de proyectos - Edición #097,"A la comunidad universitaria FISI,
+
+la Coordinación del Registro de Matrícula y Actas comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_095,[ACCESO RESTRINGIDO] Su cuota de almacenamiento institucional expiró #095,"Atención miembro de la UNMSM,
+
+Se le informa que el Centro de Cómputo e Informática UNMSM ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://becas-certificacion-unmsm.cloud/registro
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_098,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #098,"Estimado usuario del correo @unmsm.edu.pe,
+
+la Decanatura de la FISI comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic
+ES_FISI_PHISH_096,[URGENTE] Verificación de credenciales en el SUM - Cierre de cuenta #096,"Estimado egresado de la facultad,
+
+Se le informa que el Comité de Grados y Títulos ha publicado el padrón extraordinario de actas y corrección de notas 2026-II. Valide sus datos en la siguiente plataforma externa:
+http://portal-actas-fisi2026.info/login
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_099,Invitación al evento: Feria de Proyectos de Software y UX - FISI UNMSM - Edición #099,"Estimado(a) participante del evento,
+
+la Decanatura de la FISI comunica lo siguiente:
+Se informa a la comunidad de la FISI que el horario de atención en los laboratorios de cómputo para el desarrollo de proyectos integradores ha sido extendido. Pueden consultar la programación en el portal institucional oficial.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_097,[ALERTA SEGURIDAD] Accesos sospechosos en su correo @unmsm.edu.pe #097,"Estimada comunidad académica,
+
+Se le informa que la Coordinación del Registro de Matrícula y Actas ofrece la beca extraordinaria de certificación internacional en Cloud Computing. Regístrese completando el formulario obligatorio:
+http://unmsm-verificacion-portal.net/login-fisi
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_101,Boletín Informativo Quincenal de la Escuela Profesional de Ingeniería de Software - Edición #101,"Estimada comunidad académica,
+
+el Comité de Grados y Títulos comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_098,[ALERTA SEGURIDAD] Accesos sospechosos en su correo @unmsm.edu.pe #098,"Atención miembro de la UNMSM,
+
+Se le informa que la Decanatura de la FISI informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://portal-actas-fisi2026.info/login
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_103,[Software Innovation Day] Confirmación de registro para presentación de proyectos - Edición #103,"Estimado estudiante de la FISI,
+
+la Unidad de Posgrado de la FISI comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_099,[URGENTE] Verificación de credenciales en el SUM - Cierre de cuenta #099,"Estimado estudiante de la FISI,
+
+Se le informa que el DACC (Departamento Académico de Computación) informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://becas-certificacion-unmsm.cloud/registro
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_104,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #104,"Estimada comunidad académica,
+
+la Dirección Académica de la Escuela de Ingeniería de Software comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atentamente,
+Dirección de la EP de Ingeniería de Software - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_100,[OPORTUNIDAD] Beca de certificación internacional para la comunidad FISI #100,"Estimada comunidad académica,
+
+Se le informa que la Coordinación del Registro de Matrícula y Actas ha detectado accesos no autorizados a su cuenta institucional. Ingrese inmediatamente al portal de verificación para evitar el bloqueo permanente:
+http://portal-actas-fisi2026.info/login
+
+Saludos cordiales,
+Comité Director del DACC - UNMSM",es,1,FISI-Synthetic
+ES_FISI_HAM_106,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #106,"A la comunidad universitaria FISI,
+
+el Centro de Cómputo e Informática UNMSM comunica lo siguiente:
+Se solicita a los delegados de curso de la Escuela de Ingeniería de Software revisar la publicación de horarios de evaluaciones finales para coordinar los espacios de laboratorio requeridos.
+
+Atentamente,
+Oficina de Infraestructura Tecnológica FISI - UNMSM",es,0,FISI-Synthetic
+ES_FISI_PHISH_101,[OPORTUNIDAD] Beca de certificación internacional para la comunidad FISI #101,"Estimada comunidad académica,
+
+Se le informa que la Dirección Académica de la Escuela de Ingeniería de Software informa que su cupo de almacenamiento en la plataforma ha llegado al límite. Ingrese a la siguiente URL para liberar espacio:
+http://unmsm-verificacion-portal.net/login-fisi
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,1,FISI-Synthetic
+ES_FISI_HAM_107,Aviso del DACC: Horarios de atención y laboratorios académicos 2026 - Edición #107,"Atención miembro de la UNMSM,
+
+el Laboratorio de Inteligencia Artificial y Robótica comunica lo siguiente:
+El Comité de Grados y Títulos comunica que el cronograma oficial para la entrega de borradores de tesis y sustentaciones del presente semestre ya se encuentra disponible en la cartelera digital de la facultad.
+
+Atte.
+Unidad de Soporte Técnico y Redes FISI",es,0,FISI-Synthetic

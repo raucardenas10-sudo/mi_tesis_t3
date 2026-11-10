@@ -83,17 +83,23 @@ df_fisi['asunto'] = df_fisi['asunto'].apply(limpiar_texto)
 df_fisi['cuerpo'] = df_fisi['cuerpo'].apply(limpiar_texto)
 df_fisi['origen'] = 'FISI-Synthetic'
 
-# 4. CONSOLIDACIÓN Y VERIFICACIÓN GLOBAL
+# 4. CONSOLIDACIÓN, DEDUPLICACIÓN ACTIVA Y VERIFICACIÓN GLOBAL
 cols_finales = ['id_correo', 'asunto', 'cuerpo', 'idioma', 'etiqueta', 'origen']
 df_final = pd.concat([df_en_final[cols_finales], df_es_final[cols_finales], df_fisi[cols_finales]]).reset_index(drop=True)
 
+# Cálculo de firma global para control de unicidad
 df_final['hash_global'] = (df_final['asunto'] + " " + df_final['cuerpo']).apply(calcular_hash)
 duplicados_globales = df_final.duplicated(subset=['hash_global']).sum()
+
+# PURGA EFECTIVA EN CASO EXISTAN DUPLICADOS CRUZADOS
+if duplicados_globales > 0:
+    df_final = df_final.drop_duplicates(subset=['hash_global'], keep='first').reset_index(drop=True)
+
 df_final = df_final.drop(columns=['hash_global'])
 
 os.makedirs("data/processed", exist_ok=True)
 df_final.to_csv("data/processed/corpus_unificado_20k.csv", index=False, encoding="utf-8")
 
 print(f"✅ Filtrado de Unicidad Hash MD5 ejecutado correctamente.")
-print(f"🔍 Duplicados detectados en el corpus final: {duplicados_globales}")
+print(f"🔍 Duplicados detectados y purgados en el corpus final: {duplicados_globales}")
 print(f"🎉 Corpus Unificado Guardado: {len(df_final)} registros exactos (100% limpios y no repetidos).")

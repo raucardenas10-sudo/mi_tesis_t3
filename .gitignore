@@ -1,9 +1,26 @@
-# Archivos de entorno virtual de Python
+# Entornos virtuales
 venv/
+env/
 .venv/
-__pycache__/
-*.pyc
+ENV/
 
-# Archivos de caché e historial
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de datos pesados y matrices de embeddings (.npy)
+data/processed/*.npy
+*.npy
+
+# Modelos binarios serializados
+models/*.joblib
+
+# Configuración de editores / IDEs
 .vscode/
-.pytest_cache/
+.idea/
+.DS_Store
+
+# Logs y base de datos temporales
+*.log
+*.sqlite3
